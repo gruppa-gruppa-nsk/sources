@@ -10,7 +10,7 @@
  <license>Unknown license</license>
  <loopEnabled>true</loopEnabled>
  <patternModeMode>true</patternModeMode>
- <mode>pattern</mode>
+ <mode>song</mode>
  <humanize_time>0.18</humanize_time>
  <humanize_velocity>0.19</humanize_velocity>
  <swing_factor>0</swing_factor>
@@ -41,7 +41,7 @@
    <midiOutChannel>-1</midiOutChannel>
    <midiOutNote>60</midiOutNote>
    <layer>
-    <filename>//SMM_KICK_K68_V01_VEL007_RR01_1.wav</filename>
+    <filename>/SMM_KICK_K68_V01_VEL007_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -58,7 +58,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_KICK_K68_V01_VEL015_RR01_1.wav</filename>
+    <filename>/SMM_KICK_K68_V01_VEL015_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -75,7 +75,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_KICK_K68_V01_VEL023_RR01_1.wav</filename>
+    <filename>/SMM_KICK_K68_V01_VEL023_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -92,7 +92,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_KICK_K68_V01_VEL031_RR01_1.wav</filename>
+    <filename>/SMM_KICK_K68_V01_VEL031_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -109,7 +109,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_KICK_K68_V01_VEL039_RR01_1.wav</filename>
+    <filename>/SMM_KICK_K68_V01_VEL039_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -126,7 +126,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_KICK_K68_V01_VEL047_RR01_1.wav</filename>
+    <filename>/SMM_KICK_K68_V01_VEL047_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -143,7 +143,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_KICK_K68_V01_VEL055_RR01_1.wav</filename>
+    <filename>/SMM_KICK_K68_V01_VEL055_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -160,7 +160,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_KICK_K68_V01_VEL063_RR01_1.wav</filename>
+    <filename>/SMM_KICK_K68_V01_VEL063_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -177,7 +177,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_KICK_K68_V01_VEL071_RR01_1.wav</filename>
+    <filename>/SMM_KICK_K68_V01_VEL071_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -194,7 +194,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_KICK_K68_V01_VEL079_RR01_1.wav</filename>
+    <filename>/SMM_KICK_K68_V01_VEL079_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -211,7 +211,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_KICK_K68_V01_VEL087_RR01_1.wav</filename>
+    <filename>/SMM_KICK_K68_V01_VEL087_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -228,7 +228,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_KICK_K68_V01_VEL095_RR01_1.wav</filename>
+    <filename>/SMM_KICK_K68_V01_VEL095_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -245,7 +245,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_KICK_K68_V01_VEL103_RR01_1.wav</filename>
+    <filename>/SMM_KICK_K68_V01_VEL103_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -262,7 +262,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_KICK_K68_V01_VEL111_RR01_1.wav</filename>
+    <filename>/SMM_KICK_K68_V01_VEL111_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -279,7 +279,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_KICK_K68_V01_VEL119_RR01_1.wav</filename>
+    <filename>/SMM_KICK_K68_V01_VEL119_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -296,7 +296,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_KICK_K68_V01_VEL127_RR01_1.wav</filename>
+    <filename>/SMM_KICK_K68_V01_VEL127_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -339,7 +339,7 @@
    <midiOutChannel>-1</midiOutChannel>
    <midiOutNote>60</midiOutNote>
    <layer>
-    <filename>//sd14x08tama-mp-tsn-rm-v01_1.wav</filename>
+    <filename>/sd14x08tama-mp-tsn-rm-v01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -356,7 +356,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//sd14x08tama-mp-tsn-rm-v02_1.wav</filename>
+    <filename>/sd14x08tama-mp-tsn-rm-v02_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -373,7 +373,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//sd14x08tama-mp-tsn-rm-v03_1.wav</filename>
+    <filename>/sd14x08tama-mp-tsn-rm-v03_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -390,7 +390,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//sd14x08tama-mp-tsn-rm-v04_1.wav</filename>
+    <filename>/sd14x08tama-mp-tsn-rm-v04_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -407,7 +407,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//sd14x08tama-mp-tsn-rm-v05_1.wav</filename>
+    <filename>/sd14x08tama-mp-tsn-rm-v05_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -424,7 +424,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//sd14x08tama-mp-tsn-rm-v06_1.wav</filename>
+    <filename>/sd14x08tama-mp-tsn-rm-v06_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -441,7 +441,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//sd14x08tama-mp-tsn-rm-v07_1.wav</filename>
+    <filename>/sd14x08tama-mp-tsn-rm-v07_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -458,7 +458,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//sd14x08tama-mp-tsn-rm-v08_1.wav</filename>
+    <filename>/sd14x08tama-mp-tsn-rm-v08_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -475,7 +475,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//sd14x08tama-mp-tsn-rm-v09_1.wav</filename>
+    <filename>/sd14x08tama-mp-tsn-rm-v09_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -492,7 +492,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//sd14x08tama-mp-tsn-rm-v10_1.wav</filename>
+    <filename>/sd14x08tama-mp-tsn-rm-v10_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -509,7 +509,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//sd14x08tama-mp-tsn-rm-v11_1.wav</filename>
+    <filename>/sd14x08tama-mp-tsn-rm-v11_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -526,7 +526,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//sd14x08tama-mp-tsn-rm-v12_1.wav</filename>
+    <filename>/sd14x08tama-mp-tsn-rm-v12_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -543,7 +543,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//sd14x08tama-mp-tsn-rm-v13_1.wav</filename>
+    <filename>/sd14x08tama-mp-tsn-rm-v13_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -560,7 +560,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//sd14x08tama-mp-tsn-rm-v14_1.wav</filename>
+    <filename>/sd14x08tama-mp-tsn-rm-v14_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -577,7 +577,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//sd14x08tama-mp-tsn-rm-v15_1.wav</filename>
+    <filename>/sd14x08tama-mp-tsn-rm-v15_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -594,7 +594,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//sd14x08tama-mp-tsn-rm-v16_1.wav</filename>
+    <filename>/sd14x08tama-mp-tsn-rm-v16_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -637,7 +637,7 @@
    <midiOutChannel>-1</midiOutChannel>
    <midiOutNote>60</midiOutNote>
    <layer>
-    <filename>//SNR_1965_V01_NR_MULTI_VEL007_RR01_1.wav</filename>
+    <filename>/SNR_1965_V01_NR_MULTI_VEL007_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -654,7 +654,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SNR_1965_V01_NR_MULTI_VEL015_RR01_1.wav</filename>
+    <filename>/SNR_1965_V01_NR_MULTI_VEL015_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -671,7 +671,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SNR_1965_V01_NR_MULTI_VEL023_RR01_1.wav</filename>
+    <filename>/SNR_1965_V01_NR_MULTI_VEL023_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -688,7 +688,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SNR_1965_V01_NR_MULTI_VEL031_RR01_1.wav</filename>
+    <filename>/SNR_1965_V01_NR_MULTI_VEL031_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -705,7 +705,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SNR_1965_V01_NR_MULTI_VEL039_RR01_1.wav</filename>
+    <filename>/SNR_1965_V01_NR_MULTI_VEL039_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -722,7 +722,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SNR_1965_V01_NR_MULTI_VEL047_RR01_1.wav</filename>
+    <filename>/SNR_1965_V01_NR_MULTI_VEL047_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -739,7 +739,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SNR_1965_V01_NR_MULTI_VEL055_RR01_1.wav</filename>
+    <filename>/SNR_1965_V01_NR_MULTI_VEL055_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -756,7 +756,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SNR_1965_V01_NR_MULTI_VEL063_RR01_1.wav</filename>
+    <filename>/SNR_1965_V01_NR_MULTI_VEL063_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -773,7 +773,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SNR_1965_V01_NR_MULTI_VEL071_RR01_1.wav</filename>
+    <filename>/SNR_1965_V01_NR_MULTI_VEL071_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -790,7 +790,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SNR_1965_V01_NR_MULTI_VEL079_RR01_1.wav</filename>
+    <filename>/SNR_1965_V01_NR_MULTI_VEL079_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -807,7 +807,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SNR_1965_V01_NR_MULTI_VEL087_RR01_1.wav</filename>
+    <filename>/SNR_1965_V01_NR_MULTI_VEL087_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -824,7 +824,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SNR_1965_V01_NR_MULTI_VEL095_RR01_1.wav</filename>
+    <filename>/SNR_1965_V01_NR_MULTI_VEL095_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -841,7 +841,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SNR_1965_V01_NR_MULTI_VEL103_RR01_1.wav</filename>
+    <filename>/SNR_1965_V01_NR_MULTI_VEL103_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -858,7 +858,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SNR_1965_V01_NR_MULTI_VEL111_RR01_1.wav</filename>
+    <filename>/SNR_1965_V01_NR_MULTI_VEL111_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -875,7 +875,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SNR_1965_V01_NR_MULTI_VEL119_RR01_1.wav</filename>
+    <filename>/SNR_1965_V01_NR_MULTI_VEL119_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -892,7 +892,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SNR_1965_V01_NR_MULTI_VEL127_RR01_1.wav</filename>
+    <filename>/SNR_1965_V01_NR_MULTI_VEL127_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -935,7 +935,7 @@
    <midiOutChannel>-1</midiOutChannel>
    <midiOutNote>60</midiOutNote>
    <layer>
-    <filename>//SNR_1965_V01_NR_MULTI_VEL007_RR02_1.wav</filename>
+    <filename>/SNR_1965_V01_NR_MULTI_VEL007_RR02_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -952,7 +952,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SNR_1965_V01_NR_MULTI_VEL015_RR02_1.wav</filename>
+    <filename>/SNR_1965_V01_NR_MULTI_VEL015_RR02_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -969,7 +969,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SNR_1965_V01_NR_MULTI_VEL023_RR02_1.wav</filename>
+    <filename>/SNR_1965_V01_NR_MULTI_VEL023_RR02_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -986,7 +986,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SNR_1965_V01_NR_MULTI_VEL031_RR02_1.wav</filename>
+    <filename>/SNR_1965_V01_NR_MULTI_VEL031_RR02_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -1003,7 +1003,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SNR_1965_V01_NR_MULTI_VEL039_RR02_1.wav</filename>
+    <filename>/SNR_1965_V01_NR_MULTI_VEL039_RR02_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -1020,7 +1020,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SNR_1965_V01_NR_MULTI_VEL047_RR02_1.wav</filename>
+    <filename>/SNR_1965_V01_NR_MULTI_VEL047_RR02_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -1037,7 +1037,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SNR_1965_V01_NR_MULTI_VEL055_RR02_1.wav</filename>
+    <filename>/SNR_1965_V01_NR_MULTI_VEL055_RR02_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -1054,7 +1054,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SNR_1965_V01_NR_MULTI_VEL063_RR02_1.wav</filename>
+    <filename>/SNR_1965_V01_NR_MULTI_VEL063_RR02_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -1071,7 +1071,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SNR_1965_V01_NR_MULTI_VEL071_RR02_1.wav</filename>
+    <filename>/SNR_1965_V01_NR_MULTI_VEL071_RR02_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -1088,7 +1088,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SNR_1965_V01_NR_MULTI_VEL079_RR02_1.wav</filename>
+    <filename>/SNR_1965_V01_NR_MULTI_VEL079_RR02_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -1105,7 +1105,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SNR_1965_V01_NR_MULTI_VEL087_RR02_1.wav</filename>
+    <filename>/SNR_1965_V01_NR_MULTI_VEL087_RR02_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -1122,7 +1122,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SNR_1965_V01_NR_MULTI_VEL095_RR02_1.wav</filename>
+    <filename>/SNR_1965_V01_NR_MULTI_VEL095_RR02_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -1139,7 +1139,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SNR_1965_V01_NR_MULTI_VEL103_RR02_1.wav</filename>
+    <filename>/SNR_1965_V01_NR_MULTI_VEL103_RR02_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -1156,7 +1156,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SNR_1965_V01_NR_MULTI_VEL111_RR02_1.wav</filename>
+    <filename>/SNR_1965_V01_NR_MULTI_VEL111_RR02_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -1173,7 +1173,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SNR_1965_V01_NR_MULTI_VEL119_RR02_1.wav</filename>
+    <filename>/SNR_1965_V01_NR_MULTI_VEL119_RR02_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -1190,7 +1190,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SNR_1965_V01_NR_MULTI_VEL127_RR02_1.wav</filename>
+    <filename>/SNR_1965_V01_NR_MULTI_VEL127_RR02_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -1233,7 +1233,7 @@
    <midiOutChannel>-1</midiOutChannel>
    <midiOutNote>60</midiOutNote>
    <layer>
-    <filename>//SNR_1965_V01_SR_MULTI_VEL007_RR01_1.wav</filename>
+    <filename>/SNR_1965_V01_SR_MULTI_VEL007_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -1250,7 +1250,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SNR_1965_V01_SR_MULTI_VEL015_RR01_1.wav</filename>
+    <filename>/SNR_1965_V01_SR_MULTI_VEL015_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -1267,7 +1267,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SNR_1965_V01_SR_MULTI_VEL023_RR01_1.wav</filename>
+    <filename>/SNR_1965_V01_SR_MULTI_VEL023_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -1284,7 +1284,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SNR_1965_V01_SR_MULTI_VEL031_RR01_1.wav</filename>
+    <filename>/SNR_1965_V01_SR_MULTI_VEL031_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -1301,7 +1301,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SNR_1965_V01_SR_MULTI_VEL039_RR01_1.wav</filename>
+    <filename>/SNR_1965_V01_SR_MULTI_VEL039_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -1318,7 +1318,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SNR_1965_V01_SR_MULTI_VEL047_RR01_1.wav</filename>
+    <filename>/SNR_1965_V01_SR_MULTI_VEL047_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -1335,7 +1335,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SNR_1965_V01_SR_MULTI_VEL055_RR01_1.wav</filename>
+    <filename>/SNR_1965_V01_SR_MULTI_VEL055_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -1352,7 +1352,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SNR_1965_V01_SR_MULTI_VEL063_RR01_1.wav</filename>
+    <filename>/SNR_1965_V01_SR_MULTI_VEL063_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -1369,7 +1369,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SNR_1965_V01_SR_MULTI_VEL071_RR01_1.wav</filename>
+    <filename>/SNR_1965_V01_SR_MULTI_VEL071_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -1386,7 +1386,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SNR_1965_V01_SR_MULTI_VEL079_RR01_1.wav</filename>
+    <filename>/SNR_1965_V01_SR_MULTI_VEL079_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -1403,7 +1403,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SNR_1965_V01_SR_MULTI_VEL087_RR01_1.wav</filename>
+    <filename>/SNR_1965_V01_SR_MULTI_VEL087_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -1420,7 +1420,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SNR_1965_V01_SR_MULTI_VEL095_RR01_1.wav</filename>
+    <filename>/SNR_1965_V01_SR_MULTI_VEL095_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -1437,7 +1437,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SNR_1965_V01_SR_MULTI_VEL103_RR01_1.wav</filename>
+    <filename>/SNR_1965_V01_SR_MULTI_VEL103_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -1454,7 +1454,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SNR_1965_V01_SR_MULTI_VEL111_RR01_1.wav</filename>
+    <filename>/SNR_1965_V01_SR_MULTI_VEL111_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -1471,7 +1471,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SNR_1965_V01_SR_MULTI_VEL119_RR01_1.wav</filename>
+    <filename>/SNR_1965_V01_SR_MULTI_VEL119_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -1488,7 +1488,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SNR_1965_V01_SR_MULTI_VEL127_RR01_1.wav</filename>
+    <filename>/SNR_1965_V01_SR_MULTI_VEL127_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -1531,7 +1531,7 @@
    <midiOutChannel>-1</midiOutChannel>
    <midiOutNote>60</midiOutNote>
    <layer>
-    <filename>//SNR_1965_V01_SR_MULTI_VEL007_RR02_1.wav</filename>
+    <filename>/SNR_1965_V01_SR_MULTI_VEL007_RR02_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -1548,7 +1548,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SNR_1965_V01_SR_MULTI_VEL015_RR02_1.wav</filename>
+    <filename>/SNR_1965_V01_SR_MULTI_VEL015_RR02_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -1565,7 +1565,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SNR_1965_V01_SR_MULTI_VEL023_RR02_1.wav</filename>
+    <filename>/SNR_1965_V01_SR_MULTI_VEL023_RR02_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -1582,7 +1582,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SNR_1965_V01_SR_MULTI_VEL031_RR02_1.wav</filename>
+    <filename>/SNR_1965_V01_SR_MULTI_VEL031_RR02_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -1599,7 +1599,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SNR_1965_V01_SR_MULTI_VEL039_RR02_1.wav</filename>
+    <filename>/SNR_1965_V01_SR_MULTI_VEL039_RR02_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -1616,7 +1616,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SNR_1965_V01_SR_MULTI_VEL047_RR02_1.wav</filename>
+    <filename>/SNR_1965_V01_SR_MULTI_VEL047_RR02_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -1633,7 +1633,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SNR_1965_V01_SR_MULTI_VEL055_RR02_1.wav</filename>
+    <filename>/SNR_1965_V01_SR_MULTI_VEL055_RR02_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -1650,7 +1650,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SNR_1965_V01_SR_MULTI_VEL063_RR02_1.wav</filename>
+    <filename>/SNR_1965_V01_SR_MULTI_VEL063_RR02_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -1667,7 +1667,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SNR_1965_V01_SR_MULTI_VEL071_RR02_1.wav</filename>
+    <filename>/SNR_1965_V01_SR_MULTI_VEL071_RR02_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -1684,7 +1684,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SNR_1965_V01_SR_MULTI_VEL079_RR02_1.wav</filename>
+    <filename>/SNR_1965_V01_SR_MULTI_VEL079_RR02_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -1701,7 +1701,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SNR_1965_V01_SR_MULTI_VEL087_RR02_1.wav</filename>
+    <filename>/SNR_1965_V01_SR_MULTI_VEL087_RR02_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -1718,7 +1718,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SNR_1965_V01_SR_MULTI_VEL095_RR02_1.wav</filename>
+    <filename>/SNR_1965_V01_SR_MULTI_VEL095_RR02_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -1735,7 +1735,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SNR_1965_V01_SR_MULTI_VEL103_RR02_1.wav</filename>
+    <filename>/SNR_1965_V01_SR_MULTI_VEL103_RR02_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -1752,7 +1752,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SNR_1965_V01_SR_MULTI_VEL111_RR02_1.wav</filename>
+    <filename>/SNR_1965_V01_SR_MULTI_VEL111_RR02_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -1769,7 +1769,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SNR_1965_V01_SR_MULTI_VEL119_RR02_1.wav</filename>
+    <filename>/SNR_1965_V01_SR_MULTI_VEL119_RR02_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -1786,7 +1786,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SNR_1965_V01_SR_MULTI_VEL127_RR02_1.wav</filename>
+    <filename>/SNR_1965_V01_SR_MULTI_VEL127_RR02_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -1829,7 +1829,7 @@
    <midiOutChannel>-1</midiOutChannel>
    <midiOutNote>60</midiOutNote>
    <layer>
-    <filename>//loTom_OH_PP_01_1.wav</filename>
+    <filename>/loTom_OH_PP_01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -1846,7 +1846,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//loTom_OH_PP_02_1.wav</filename>
+    <filename>/loTom_OH_PP_02_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -1863,7 +1863,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//loTom_OH_PP_03_1.wav</filename>
+    <filename>/loTom_OH_PP_03_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -1880,7 +1880,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//loTom_OH_PP_04_1.wav</filename>
+    <filename>/loTom_OH_PP_04_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -1897,7 +1897,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//loTom_OH_PP_05_1.wav</filename>
+    <filename>/loTom_OH_PP_05_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -1914,7 +1914,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//loTom_OH_PP_06_1.wav</filename>
+    <filename>/loTom_OH_PP_06_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -1957,7 +1957,7 @@
    <midiOutChannel>-1</midiOutChannel>
    <midiOutNote>60</midiOutNote>
    <layer>
-    <filename>//loTom_OH_MP_01_1.wav</filename>
+    <filename>/loTom_OH_MP_01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -1974,7 +1974,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//loTom_OH_MP_02_1.wav</filename>
+    <filename>/loTom_OH_MP_02_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -1991,7 +1991,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//loTom_OH_MP_03_1.wav</filename>
+    <filename>/loTom_OH_MP_03_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -2008,7 +2008,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//loTom_OH_MP_04_1.wav</filename>
+    <filename>/loTom_OH_MP_04_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -2025,7 +2025,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//loTom_OH_MP_05_1.wav</filename>
+    <filename>/loTom_OH_MP_05_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -2042,7 +2042,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//loTom_OH_MP_06_1.wav</filename>
+    <filename>/loTom_OH_MP_06_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -2059,7 +2059,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//loTom_OH_MP_07_1.wav</filename>
+    <filename>/loTom_OH_MP_07_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -2076,7 +2076,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//loTom_OH_MP_08_1.wav</filename>
+    <filename>/loTom_OH_MP_08_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -2093,7 +2093,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//loTom_OH_MP_09_1.wav</filename>
+    <filename>/loTom_OH_MP_09_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -2110,7 +2110,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//loTom_OH_MP_10_1.wav</filename>
+    <filename>/loTom_OH_MP_10_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -2153,7 +2153,7 @@
    <midiOutChannel>-1</midiOutChannel>
    <midiOutNote>60</midiOutNote>
    <layer>
-    <filename>//loTom_OH_FF_01_1.wav</filename>
+    <filename>/loTom_OH_FF_01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -2170,7 +2170,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//loTom_OH_FF_02_1.wav</filename>
+    <filename>/loTom_OH_FF_02_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -2187,7 +2187,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//loTom_OH_FF_03_1.wav</filename>
+    <filename>/loTom_OH_FF_03_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -2204,7 +2204,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//loTom_OH_FF_04_1.wav</filename>
+    <filename>/loTom_OH_FF_04_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -2221,7 +2221,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//loTom_OH_FF_05_1.wav</filename>
+    <filename>/loTom_OH_FF_05_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -2238,7 +2238,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//loTom_OH_FF_06_1.wav</filename>
+    <filename>/loTom_OH_FF_06_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -2255,7 +2255,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//loTom_OH_FF_07_1.wav</filename>
+    <filename>/loTom_OH_FF_07_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -2272,7 +2272,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//loTom_OH_FF_08_1.wav</filename>
+    <filename>/loTom_OH_FF_08_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -2315,7 +2315,7 @@
    <midiOutChannel>-1</midiOutChannel>
    <midiOutNote>60</midiOutNote>
    <layer>
-    <filename>//SMM_TOM369_V01_VEL003_RR01_1.wav</filename>
+    <filename>/SMM_TOM369_V01_VEL003_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -2332,7 +2332,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_TOM369_V01_VEL006_RR01_1.wav</filename>
+    <filename>/SMM_TOM369_V01_VEL006_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -2349,7 +2349,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_TOM369_V01_VEL009_RR01_1.wav</filename>
+    <filename>/SMM_TOM369_V01_VEL009_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -2366,7 +2366,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_TOM369_V01_VEL012_RR01_1.wav</filename>
+    <filename>/SMM_TOM369_V01_VEL012_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -2383,7 +2383,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_TOM369_V01_VEL015_RR01_1.wav</filename>
+    <filename>/SMM_TOM369_V01_VEL015_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -2400,7 +2400,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_TOM369_V01_VEL018_RR01_1.wav</filename>
+    <filename>/SMM_TOM369_V01_VEL018_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -2417,7 +2417,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_TOM369_V01_VEL021_RR01_1.wav</filename>
+    <filename>/SMM_TOM369_V01_VEL021_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -2434,7 +2434,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_TOM369_V01_VEL024_RR01_1.wav</filename>
+    <filename>/SMM_TOM369_V01_VEL024_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -2451,7 +2451,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_TOM369_V01_VEL027_RR01_1.wav</filename>
+    <filename>/SMM_TOM369_V01_VEL027_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -2468,7 +2468,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_TOM369_V01_VEL030_RR01_1.wav</filename>
+    <filename>/SMM_TOM369_V01_VEL030_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -2485,7 +2485,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_TOM369_V01_VEL033_RR01_1.wav</filename>
+    <filename>/SMM_TOM369_V01_VEL033_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -2502,7 +2502,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_TOM369_V01_VEL036_RR01_1.wav</filename>
+    <filename>/SMM_TOM369_V01_VEL036_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -2519,7 +2519,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_TOM369_V01_VEL039_RR01_1.wav</filename>
+    <filename>/SMM_TOM369_V01_VEL039_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -2536,7 +2536,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_TOM369_V01_VEL042_RR01_1.wav</filename>
+    <filename>/SMM_TOM369_V01_VEL042_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -2553,7 +2553,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_TOM369_V01_VEL045_RR01_1.wav</filename>
+    <filename>/SMM_TOM369_V01_VEL045_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -2570,7 +2570,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_TOM369_V01_VEL049_RR01_1.wav</filename>
+    <filename>/SMM_TOM369_V01_VEL049_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -2613,7 +2613,7 @@
    <midiOutChannel>-1</midiOutChannel>
    <midiOutNote>60</midiOutNote>
    <layer>
-    <filename>//SMM_TOM369_V01_VEL003_RR02_1.wav</filename>
+    <filename>/SMM_TOM369_V01_VEL003_RR02_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -2630,7 +2630,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_TOM369_V01_VEL006_RR02_1.wav</filename>
+    <filename>/SMM_TOM369_V01_VEL006_RR02_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -2647,7 +2647,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_TOM369_V01_VEL009_RR02_1.wav</filename>
+    <filename>/SMM_TOM369_V01_VEL009_RR02_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -2664,7 +2664,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_TOM369_V01_VEL012_RR02_1.wav</filename>
+    <filename>/SMM_TOM369_V01_VEL012_RR02_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -2681,7 +2681,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_TOM369_V01_VEL015_RR02_1.wav</filename>
+    <filename>/SMM_TOM369_V01_VEL015_RR02_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -2698,7 +2698,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_TOM369_V01_VEL018_RR02_1.wav</filename>
+    <filename>/SMM_TOM369_V01_VEL018_RR02_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -2715,7 +2715,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_TOM369_V01_VEL021_RR02_1.wav</filename>
+    <filename>/SMM_TOM369_V01_VEL021_RR02_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -2732,7 +2732,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_TOM369_V01_VEL024_RR02_1.wav</filename>
+    <filename>/SMM_TOM369_V01_VEL024_RR02_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -2749,7 +2749,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_TOM369_V01_VEL027_RR02_1.wav</filename>
+    <filename>/SMM_TOM369_V01_VEL027_RR02_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -2766,7 +2766,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_TOM369_V01_VEL030_RR02_1.wav</filename>
+    <filename>/SMM_TOM369_V01_VEL030_RR02_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -2783,7 +2783,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_TOM369_V01_VEL033_RR02_1.wav</filename>
+    <filename>/SMM_TOM369_V01_VEL033_RR02_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -2800,7 +2800,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_TOM369_V01_VEL036_RR02_1.wav</filename>
+    <filename>/SMM_TOM369_V01_VEL036_RR02_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -2817,7 +2817,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_TOM369_V01_VEL039_RR02_1.wav</filename>
+    <filename>/SMM_TOM369_V01_VEL039_RR02_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -2834,7 +2834,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_TOM369_V01_VEL042_RR02_1.wav</filename>
+    <filename>/SMM_TOM369_V01_VEL042_RR02_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -2851,7 +2851,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_TOM369_V01_VEL045_RR02_1.wav</filename>
+    <filename>/SMM_TOM369_V01_VEL045_RR02_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -2868,7 +2868,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_TOM369_V01_VEL049_RR02_1.wav</filename>
+    <filename>/SMM_TOM369_V01_VEL049_RR02_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -2911,7 +2911,7 @@
    <midiOutChannel>-1</midiOutChannel>
    <midiOutNote>60</midiOutNote>
    <layer>
-    <filename>//SMM_TOM269_V01_VEL003_RR01_1.wav</filename>
+    <filename>/SMM_TOM269_V01_VEL003_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -2928,7 +2928,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_TOM269_V01_VEL006_RR01_1.wav</filename>
+    <filename>/SMM_TOM269_V01_VEL006_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -2945,7 +2945,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_TOM269_V01_VEL009_RR01_1.wav</filename>
+    <filename>/SMM_TOM269_V01_VEL009_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -2962,7 +2962,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_TOM269_V01_VEL012_RR01_1.wav</filename>
+    <filename>/SMM_TOM269_V01_VEL012_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -2979,7 +2979,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_TOM269_V01_VEL015_RR01_1.wav</filename>
+    <filename>/SMM_TOM269_V01_VEL015_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -2996,7 +2996,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_TOM269_V01_VEL018_RR01_1.wav</filename>
+    <filename>/SMM_TOM269_V01_VEL018_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -3013,7 +3013,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_TOM269_V01_VEL021_RR01_1.wav</filename>
+    <filename>/SMM_TOM269_V01_VEL021_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -3030,7 +3030,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_TOM269_V01_VEL024_RR01_1.wav</filename>
+    <filename>/SMM_TOM269_V01_VEL024_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -3047,7 +3047,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_TOM269_V01_VEL027_RR01_1.wav</filename>
+    <filename>/SMM_TOM269_V01_VEL027_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -3064,7 +3064,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_TOM269_V01_VEL030_RR01_1.wav</filename>
+    <filename>/SMM_TOM269_V01_VEL030_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -3081,7 +3081,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_TOM269_V01_VEL033_RR01_1.wav</filename>
+    <filename>/SMM_TOM269_V01_VEL033_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -3098,7 +3098,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_TOM269_V01_VEL036_RR01_1.wav</filename>
+    <filename>/SMM_TOM269_V01_VEL036_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -3115,7 +3115,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_TOM269_V01_VEL039_RR01_1.wav</filename>
+    <filename>/SMM_TOM269_V01_VEL039_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -3132,7 +3132,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_TOM269_V01_VEL042_RR01_1.wav</filename>
+    <filename>/SMM_TOM269_V01_VEL042_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -3149,7 +3149,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_TOM269_V01_VEL045_RR01_1.wav</filename>
+    <filename>/SMM_TOM269_V01_VEL045_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -3166,7 +3166,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_TOM269_V01_VEL049_RR01_1.wav</filename>
+    <filename>/SMM_TOM269_V01_VEL049_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -3209,7 +3209,7 @@
    <midiOutChannel>-1</midiOutChannel>
    <midiOutNote>60</midiOutNote>
    <layer>
-    <filename>//SMM_TOM269_V01_VEL003_RR02_1.wav</filename>
+    <filename>/SMM_TOM269_V01_VEL003_RR02_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -3226,7 +3226,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_TOM269_V01_VEL006_RR02_1.wav</filename>
+    <filename>/SMM_TOM269_V01_VEL006_RR02_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -3243,7 +3243,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_TOM269_V01_VEL009_RR02_1.wav</filename>
+    <filename>/SMM_TOM269_V01_VEL009_RR02_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -3260,7 +3260,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_TOM269_V01_VEL012_RR02_1.wav</filename>
+    <filename>/SMM_TOM269_V01_VEL012_RR02_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -3277,7 +3277,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_TOM269_V01_VEL015_RR02_1.wav</filename>
+    <filename>/SMM_TOM269_V01_VEL015_RR02_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -3294,7 +3294,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_TOM269_V01_VEL018_RR02_1.wav</filename>
+    <filename>/SMM_TOM269_V01_VEL018_RR02_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -3311,7 +3311,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_TOM269_V01_VEL021_RR02_1.wav</filename>
+    <filename>/SMM_TOM269_V01_VEL021_RR02_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -3328,7 +3328,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_TOM269_V01_VEL024_RR02_1.wav</filename>
+    <filename>/SMM_TOM269_V01_VEL024_RR02_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -3345,7 +3345,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_TOM269_V01_VEL027_RR02_1.wav</filename>
+    <filename>/SMM_TOM269_V01_VEL027_RR02_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -3362,7 +3362,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_TOM269_V01_VEL030_RR02_1.wav</filename>
+    <filename>/SMM_TOM269_V01_VEL030_RR02_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -3379,7 +3379,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_TOM269_V01_VEL033_RR02_1.wav</filename>
+    <filename>/SMM_TOM269_V01_VEL033_RR02_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -3396,7 +3396,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_TOM269_V01_VEL036_RR02_1.wav</filename>
+    <filename>/SMM_TOM269_V01_VEL036_RR02_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -3413,7 +3413,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_TOM269_V01_VEL039_RR02_1.wav</filename>
+    <filename>/SMM_TOM269_V01_VEL039_RR02_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -3430,7 +3430,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_TOM269_V01_VEL042_RR02_1.wav</filename>
+    <filename>/SMM_TOM269_V01_VEL042_RR02_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -3447,7 +3447,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_TOM269_V01_VEL045_RR02_1.wav</filename>
+    <filename>/SMM_TOM269_V01_VEL045_RR02_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -3464,7 +3464,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_TOM269_V01_VEL049_RR02_1.wav</filename>
+    <filename>/SMM_TOM269_V01_VEL049_RR02_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -3507,7 +3507,7 @@
    <midiOutChannel>-1</midiOutChannel>
    <midiOutNote>60</midiOutNote>
    <layer>
-    <filename>//hiTom_OH_P_01_1.wav</filename>
+    <filename>/hiTom_OH_P_01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -3524,7 +3524,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//hiTom_OH_P_02_1.wav</filename>
+    <filename>/hiTom_OH_P_02_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -3541,7 +3541,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//hiTom_OH_P_03_1.wav</filename>
+    <filename>/hiTom_OH_P_03_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -3558,7 +3558,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//hiTom_OH_P_04_1.wav</filename>
+    <filename>/hiTom_OH_P_04_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -3575,7 +3575,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//hiTom_OH_P_05_1.wav</filename>
+    <filename>/hiTom_OH_P_05_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -3592,7 +3592,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//hiTom_OH_P_06_1.wav</filename>
+    <filename>/hiTom_OH_P_06_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -3609,7 +3609,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//hiTom_OH_P_07_1.wav</filename>
+    <filename>/hiTom_OH_P_07_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -3626,7 +3626,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//hiTom_OH_P_08_1.wav</filename>
+    <filename>/hiTom_OH_P_08_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -3643,7 +3643,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//hiTom_OH_P_09_1.wav</filename>
+    <filename>/hiTom_OH_P_09_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -3686,7 +3686,7 @@
    <midiOutChannel>-1</midiOutChannel>
    <midiOutNote>60</midiOutNote>
    <layer>
-    <filename>//hiTom_OH_F_01_1.wav</filename>
+    <filename>/hiTom_OH_F_01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -3703,7 +3703,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//hiTom_OH_F_02_1.wav</filename>
+    <filename>/hiTom_OH_F_02_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -3720,7 +3720,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//hiTom_OH_F_03_1.wav</filename>
+    <filename>/hiTom_OH_F_03_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -3737,7 +3737,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//hiTom_OH_F_04_1.wav</filename>
+    <filename>/hiTom_OH_F_04_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -3754,7 +3754,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//hiTom_OH_F_05_1.wav</filename>
+    <filename>/hiTom_OH_F_05_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -3771,7 +3771,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//hiTom_OH_F_06_1.wav</filename>
+    <filename>/hiTom_OH_F_06_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -3788,7 +3788,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//hiTom_OH_F_07_1.wav</filename>
+    <filename>/hiTom_OH_F_07_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -3805,7 +3805,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//hiTom_OH_F_08_1.wav</filename>
+    <filename>/hiTom_OH_F_08_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -3822,7 +3822,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//hiTom_OH_F_09_1.wav</filename>
+    <filename>/hiTom_OH_F_09_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -3839,7 +3839,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//hiTom_OH_F_10_1.wav</filename>
+    <filename>/hiTom_OH_F_10_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -3882,7 +3882,7 @@
    <midiOutChannel>-1</midiOutChannel>
    <midiOutNote>60</midiOutNote>
    <layer>
-    <filename>//hiTom_OH_FF_01_1.wav</filename>
+    <filename>/hiTom_OH_FF_01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -3899,7 +3899,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//hiTom_OH_FF_02_1.wav</filename>
+    <filename>/hiTom_OH_FF_02_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -3916,7 +3916,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//hiTom_OH_FF_03_1.wav</filename>
+    <filename>/hiTom_OH_FF_03_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -3933,7 +3933,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//hiTom_OH_FF_04_1.wav</filename>
+    <filename>/hiTom_OH_FF_04_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -3950,7 +3950,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//hiTom_OH_FF_05_1.wav</filename>
+    <filename>/hiTom_OH_FF_05_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -3967,7 +3967,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//hiTom_OH_FF_06_1.wav</filename>
+    <filename>/hiTom_OH_FF_06_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -3984,7 +3984,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//hiTom_OH_FF_07_1.wav</filename>
+    <filename>/hiTom_OH_FF_07_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -4001,7 +4001,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//hiTom_OH_FF_08_1.wav</filename>
+    <filename>/hiTom_OH_FF_08_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -4018,7 +4018,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//hiTom_OH_FF_09_1.wav</filename>
+    <filename>/hiTom_OH_FF_09_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -4035,7 +4035,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//hiTom_OH_FF_10_1.wav</filename>
+    <filename>/hiTom_OH_FF_10_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -4052,7 +4052,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//hiTom_OH_FF_11_1.wav</filename>
+    <filename>/hiTom_OH_FF_11_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -4069,7 +4069,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//hiTom_OH_FF_12_1.wav</filename>
+    <filename>/hiTom_OH_FF_12_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -4112,7 +4112,7 @@
    <midiOutChannel>-1</midiOutChannel>
    <midiOutNote>60</midiOutNote>
    <layer>
-    <filename>//SMM_RIDE17_BELL_V01_VEL003_RR01_1.wav</filename>
+    <filename>/SMM_RIDE17_BELL_V01_VEL003_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -4129,7 +4129,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_RIDE17_BELL_V01_VEL006_RR01_1.wav</filename>
+    <filename>/SMM_RIDE17_BELL_V01_VEL006_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -4146,7 +4146,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_RIDE17_BELL_V01_VEL009_RR01_1.wav</filename>
+    <filename>/SMM_RIDE17_BELL_V01_VEL009_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -4163,7 +4163,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_RIDE17_BELL_V01_VEL012_RR01_1.wav</filename>
+    <filename>/SMM_RIDE17_BELL_V01_VEL012_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -4180,7 +4180,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_RIDE17_BELL_V01_VEL015_RR01_1.wav</filename>
+    <filename>/SMM_RIDE17_BELL_V01_VEL015_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -4197,7 +4197,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_RIDE17_BELL_V01_VEL018_RR01_1.wav</filename>
+    <filename>/SMM_RIDE17_BELL_V01_VEL018_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -4214,7 +4214,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_RIDE17_BELL_V01_VEL021_RR01_1.wav</filename>
+    <filename>/SMM_RIDE17_BELL_V01_VEL021_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -4231,7 +4231,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_RIDE17_BELL_V01_VEL024_RR01_1.wav</filename>
+    <filename>/SMM_RIDE17_BELL_V01_VEL024_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -4248,7 +4248,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_RIDE17_BELL_V01_VEL027_RR01_1.wav</filename>
+    <filename>/SMM_RIDE17_BELL_V01_VEL027_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -4265,7 +4265,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_RIDE17_BELL_V01_VEL030_RR01_1.wav</filename>
+    <filename>/SMM_RIDE17_BELL_V01_VEL030_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -4282,7 +4282,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_RIDE17_BELL_V01_VEL033_RR01_1.wav</filename>
+    <filename>/SMM_RIDE17_BELL_V01_VEL033_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -4299,7 +4299,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_RIDE17_BELL_V01_VEL036_RR01_1.wav</filename>
+    <filename>/SMM_RIDE17_BELL_V01_VEL036_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -4316,7 +4316,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_RIDE17_BELL_V01_VEL039_RR01_1.wav</filename>
+    <filename>/SMM_RIDE17_BELL_V01_VEL039_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -4333,7 +4333,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_RIDE17_BELL_V01_VEL042_RR01_1.wav</filename>
+    <filename>/SMM_RIDE17_BELL_V01_VEL042_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -4350,7 +4350,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_RIDE17_BELL_V01_VEL045_RR01_1.wav</filename>
+    <filename>/SMM_RIDE17_BELL_V01_VEL045_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -4367,7 +4367,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_RIDE17_BELL_V01_VEL049_RR01_1.wav</filename>
+    <filename>/SMM_RIDE17_BELL_V01_VEL049_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -4410,7 +4410,7 @@
    <midiOutChannel>-1</midiOutChannel>
    <midiOutNote>60</midiOutNote>
    <layer>
-    <filename>//SMM_RIDE17_BELL_V01_VEL003_RR02_1.wav</filename>
+    <filename>/SMM_RIDE17_BELL_V01_VEL003_RR02_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -4427,7 +4427,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_RIDE17_BELL_V01_VEL006_RR02_1.wav</filename>
+    <filename>/SMM_RIDE17_BELL_V01_VEL006_RR02_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -4444,7 +4444,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_RIDE17_BELL_V01_VEL009_RR02_1.wav</filename>
+    <filename>/SMM_RIDE17_BELL_V01_VEL009_RR02_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -4461,7 +4461,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_RIDE17_BELL_V01_VEL012_RR02_1.wav</filename>
+    <filename>/SMM_RIDE17_BELL_V01_VEL012_RR02_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -4478,7 +4478,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_RIDE17_BELL_V01_VEL015_RR02_1.wav</filename>
+    <filename>/SMM_RIDE17_BELL_V01_VEL015_RR02_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -4495,7 +4495,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_RIDE17_BELL_V01_VEL018_RR02_1.wav</filename>
+    <filename>/SMM_RIDE17_BELL_V01_VEL018_RR02_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -4512,7 +4512,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_RIDE17_BELL_V01_VEL021_RR02_1.wav</filename>
+    <filename>/SMM_RIDE17_BELL_V01_VEL021_RR02_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -4529,7 +4529,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_RIDE17_BELL_V01_VEL024_RR02_1.wav</filename>
+    <filename>/SMM_RIDE17_BELL_V01_VEL024_RR02_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -4546,7 +4546,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_RIDE17_BELL_V01_VEL027_RR02_1.wav</filename>
+    <filename>/SMM_RIDE17_BELL_V01_VEL027_RR02_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -4563,7 +4563,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_RIDE17_BELL_V01_VEL030_RR02_1.wav</filename>
+    <filename>/SMM_RIDE17_BELL_V01_VEL030_RR02_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -4580,7 +4580,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_RIDE17_BELL_V01_VEL033_RR02_1.wav</filename>
+    <filename>/SMM_RIDE17_BELL_V01_VEL033_RR02_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -4597,7 +4597,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_RIDE17_BELL_V01_VEL036_RR02_1.wav</filename>
+    <filename>/SMM_RIDE17_BELL_V01_VEL036_RR02_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -4614,7 +4614,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_RIDE17_BELL_V01_VEL039_RR02_1.wav</filename>
+    <filename>/SMM_RIDE17_BELL_V01_VEL039_RR02_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -4631,7 +4631,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_RIDE17_BELL_V01_VEL042_RR02_1.wav</filename>
+    <filename>/SMM_RIDE17_BELL_V01_VEL042_RR02_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -4648,7 +4648,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_RIDE17_BELL_V01_VEL045_RR02_1.wav</filename>
+    <filename>/SMM_RIDE17_BELL_V01_VEL045_RR02_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -4665,7 +4665,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_RIDE17_BELL_V01_VEL049_RR02_1.wav</filename>
+    <filename>/SMM_RIDE17_BELL_V01_VEL049_RR02_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -4708,7 +4708,7 @@
    <midiOutChannel>-1</midiOutChannel>
    <midiOutNote>60</midiOutNote>
    <layer>
-    <filename>//SMM_RIDE17_MAIN_V01_VEL003_RR01_1.wav</filename>
+    <filename>/SMM_RIDE17_MAIN_V01_VEL003_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -4725,7 +4725,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_RIDE17_MAIN_V01_VEL006_RR01_1.wav</filename>
+    <filename>/SMM_RIDE17_MAIN_V01_VEL006_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -4742,7 +4742,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_RIDE17_MAIN_V01_VEL009_RR01_1.wav</filename>
+    <filename>/SMM_RIDE17_MAIN_V01_VEL009_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -4759,7 +4759,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_RIDE17_MAIN_V01_VEL012_RR01_1.wav</filename>
+    <filename>/SMM_RIDE17_MAIN_V01_VEL012_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -4776,7 +4776,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_RIDE17_MAIN_V01_VEL015_RR01_1.wav</filename>
+    <filename>/SMM_RIDE17_MAIN_V01_VEL015_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -4793,7 +4793,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_RIDE17_MAIN_V01_VEL018_RR01_1.wav</filename>
+    <filename>/SMM_RIDE17_MAIN_V01_VEL018_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -4810,7 +4810,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_RIDE17_MAIN_V01_VEL021_RR01_1.wav</filename>
+    <filename>/SMM_RIDE17_MAIN_V01_VEL021_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -4827,7 +4827,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_RIDE17_MAIN_V01_VEL024_RR01_1.wav</filename>
+    <filename>/SMM_RIDE17_MAIN_V01_VEL024_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -4844,7 +4844,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_RIDE17_MAIN_V01_VEL027_RR01_1.wav</filename>
+    <filename>/SMM_RIDE17_MAIN_V01_VEL027_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -4861,7 +4861,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_RIDE17_MAIN_V01_VEL030_RR01_1.wav</filename>
+    <filename>/SMM_RIDE17_MAIN_V01_VEL030_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -4878,7 +4878,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_RIDE17_MAIN_V01_VEL033_RR01_1.wav</filename>
+    <filename>/SMM_RIDE17_MAIN_V01_VEL033_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -4895,7 +4895,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_RIDE17_MAIN_V01_VEL036_RR01_1.wav</filename>
+    <filename>/SMM_RIDE17_MAIN_V01_VEL036_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -4912,7 +4912,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_RIDE17_MAIN_V01_VEL039_RR01_1.wav</filename>
+    <filename>/SMM_RIDE17_MAIN_V01_VEL039_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -4929,7 +4929,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_RIDE17_MAIN_V01_VEL042_RR01_1.wav</filename>
+    <filename>/SMM_RIDE17_MAIN_V01_VEL042_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -4946,7 +4946,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_RIDE17_MAIN_V01_VEL045_RR01_1.wav</filename>
+    <filename>/SMM_RIDE17_MAIN_V01_VEL045_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -4963,7 +4963,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_RIDE17_MAIN_V01_VEL049_RR01_1.wav</filename>
+    <filename>/SMM_RIDE17_MAIN_V01_VEL049_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -5006,7 +5006,7 @@
    <midiOutChannel>-1</midiOutChannel>
    <midiOutNote>60</midiOutNote>
    <layer>
-    <filename>//SMM_RIDE17_MAIN_V01_VEL003_RR02_1.wav</filename>
+    <filename>/SMM_RIDE17_MAIN_V01_VEL003_RR02_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -5023,7 +5023,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_RIDE17_MAIN_V01_VEL006_RR02_1.wav</filename>
+    <filename>/SMM_RIDE17_MAIN_V01_VEL006_RR02_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -5040,7 +5040,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_RIDE17_MAIN_V01_VEL009_RR02_1.wav</filename>
+    <filename>/SMM_RIDE17_MAIN_V01_VEL009_RR02_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -5057,7 +5057,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_RIDE17_MAIN_V01_VEL012_RR02_1.wav</filename>
+    <filename>/SMM_RIDE17_MAIN_V01_VEL012_RR02_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -5074,7 +5074,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_RIDE17_MAIN_V01_VEL015_RR02_1.wav</filename>
+    <filename>/SMM_RIDE17_MAIN_V01_VEL015_RR02_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -5091,7 +5091,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_RIDE17_MAIN_V01_VEL018_RR02_1.wav</filename>
+    <filename>/SMM_RIDE17_MAIN_V01_VEL018_RR02_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -5108,7 +5108,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_RIDE17_MAIN_V01_VEL021_RR02_1.wav</filename>
+    <filename>/SMM_RIDE17_MAIN_V01_VEL021_RR02_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -5125,7 +5125,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_RIDE17_MAIN_V01_VEL024_RR02_1.wav</filename>
+    <filename>/SMM_RIDE17_MAIN_V01_VEL024_RR02_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -5142,7 +5142,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_RIDE17_MAIN_V01_VEL027_RR02_1.wav</filename>
+    <filename>/SMM_RIDE17_MAIN_V01_VEL027_RR02_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -5159,7 +5159,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_RIDE17_MAIN_V01_VEL030_RR02_1.wav</filename>
+    <filename>/SMM_RIDE17_MAIN_V01_VEL030_RR02_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -5176,7 +5176,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_RIDE17_MAIN_V01_VEL033_RR02_1.wav</filename>
+    <filename>/SMM_RIDE17_MAIN_V01_VEL033_RR02_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -5193,7 +5193,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_RIDE17_MAIN_V01_VEL036_RR02_1.wav</filename>
+    <filename>/SMM_RIDE17_MAIN_V01_VEL036_RR02_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -5210,7 +5210,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_RIDE17_MAIN_V01_VEL039_RR02_1.wav</filename>
+    <filename>/SMM_RIDE17_MAIN_V01_VEL039_RR02_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -5227,7 +5227,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_RIDE17_MAIN_V01_VEL042_RR02_1.wav</filename>
+    <filename>/SMM_RIDE17_MAIN_V01_VEL042_RR02_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -5244,7 +5244,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_RIDE17_MAIN_V01_VEL045_RR02_1.wav</filename>
+    <filename>/SMM_RIDE17_MAIN_V01_VEL045_RR02_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -5261,7 +5261,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_RIDE17_MAIN_V01_VEL049_RR02_1.wav</filename>
+    <filename>/SMM_RIDE17_MAIN_V01_VEL049_RR02_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -5304,7 +5304,7 @@
    <midiOutChannel>-1</midiOutChannel>
    <midiOutNote>60</midiOutNote>
    <layer>
-    <filename>//SMM_RIDE20_BELL_V01_VEL002_RR01_1.wav</filename>
+    <filename>/SMM_RIDE20_BELL_V01_VEL002_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -5321,7 +5321,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_RIDE20_BELL_V01_VEL005_RR01_1.wav</filename>
+    <filename>/SMM_RIDE20_BELL_V01_VEL005_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -5338,7 +5338,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_RIDE20_BELL_V01_VEL008_RR01_1.wav</filename>
+    <filename>/SMM_RIDE20_BELL_V01_VEL008_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -5355,7 +5355,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_RIDE20_BELL_V01_VEL011_RR01_1.wav</filename>
+    <filename>/SMM_RIDE20_BELL_V01_VEL011_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -5372,7 +5372,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_RIDE20_BELL_V01_VEL014_RR01_1.wav</filename>
+    <filename>/SMM_RIDE20_BELL_V01_VEL014_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -5389,7 +5389,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_RIDE20_BELL_V01_VEL016_RR01_1.wav</filename>
+    <filename>/SMM_RIDE20_BELL_V01_VEL016_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -5406,7 +5406,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_RIDE20_BELL_V01_VEL019_RR01_1.wav</filename>
+    <filename>/SMM_RIDE20_BELL_V01_VEL019_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -5423,7 +5423,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_RIDE20_BELL_V01_VEL022_RR01_1.wav</filename>
+    <filename>/SMM_RIDE20_BELL_V01_VEL022_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -5440,7 +5440,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_RIDE20_BELL_V01_VEL025_RR01_1.wav</filename>
+    <filename>/SMM_RIDE20_BELL_V01_VEL025_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -5457,7 +5457,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_RIDE20_BELL_V01_VEL028_RR01_1.wav</filename>
+    <filename>/SMM_RIDE20_BELL_V01_VEL028_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -5474,7 +5474,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_RIDE20_BELL_V01_VEL030_RR01_1.wav</filename>
+    <filename>/SMM_RIDE20_BELL_V01_VEL030_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -5491,7 +5491,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_RIDE20_BELL_V01_VEL033_RR01_1.wav</filename>
+    <filename>/SMM_RIDE20_BELL_V01_VEL033_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -5508,7 +5508,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_RIDE20_BELL_V01_VEL036_RR01_1.wav</filename>
+    <filename>/SMM_RIDE20_BELL_V01_VEL036_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -5525,7 +5525,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_RIDE20_BELL_V01_VEL039_RR01_1.wav</filename>
+    <filename>/SMM_RIDE20_BELL_V01_VEL039_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -5542,7 +5542,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_RIDE20_BELL_V01_VEL042_RR01_1.wav</filename>
+    <filename>/SMM_RIDE20_BELL_V01_VEL042_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -5559,7 +5559,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_RIDE20_BELL_V01_VEL045_RR01_1.wav</filename>
+    <filename>/SMM_RIDE20_BELL_V01_VEL045_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -5602,7 +5602,7 @@
    <midiOutChannel>-1</midiOutChannel>
    <midiOutNote>60</midiOutNote>
    <layer>
-    <filename>//SMM_RIDE20_BELL_V01_VEL002_RR02_1.wav</filename>
+    <filename>/SMM_RIDE20_BELL_V01_VEL002_RR02_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -5619,7 +5619,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_RIDE20_BELL_V01_VEL005_RR02_1.wav</filename>
+    <filename>/SMM_RIDE20_BELL_V01_VEL005_RR02_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -5636,7 +5636,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_RIDE20_BELL_V01_VEL008_RR02_1.wav</filename>
+    <filename>/SMM_RIDE20_BELL_V01_VEL008_RR02_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -5653,7 +5653,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_RIDE20_BELL_V01_VEL011_RR02_1.wav</filename>
+    <filename>/SMM_RIDE20_BELL_V01_VEL011_RR02_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -5670,7 +5670,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_RIDE20_BELL_V01_VEL014_RR02_1.wav</filename>
+    <filename>/SMM_RIDE20_BELL_V01_VEL014_RR02_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -5687,7 +5687,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_RIDE20_BELL_V01_VEL016_RR02_1.wav</filename>
+    <filename>/SMM_RIDE20_BELL_V01_VEL016_RR02_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -5704,7 +5704,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_RIDE20_BELL_V01_VEL019_RR02_1.wav</filename>
+    <filename>/SMM_RIDE20_BELL_V01_VEL019_RR02_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -5721,7 +5721,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_RIDE20_BELL_V01_VEL022_RR02_1.wav</filename>
+    <filename>/SMM_RIDE20_BELL_V01_VEL022_RR02_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -5738,7 +5738,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_RIDE20_BELL_V01_VEL025_RR02_1.wav</filename>
+    <filename>/SMM_RIDE20_BELL_V01_VEL025_RR02_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -5755,7 +5755,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_RIDE20_BELL_V01_VEL028_RR02_1.wav</filename>
+    <filename>/SMM_RIDE20_BELL_V01_VEL028_RR02_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -5772,7 +5772,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_RIDE20_BELL_V01_VEL030_RR02_1.wav</filename>
+    <filename>/SMM_RIDE20_BELL_V01_VEL030_RR02_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -5789,7 +5789,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_RIDE20_BELL_V01_VEL033_RR02_1.wav</filename>
+    <filename>/SMM_RIDE20_BELL_V01_VEL033_RR02_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -5806,7 +5806,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_RIDE20_BELL_V01_VEL036_RR02_1.wav</filename>
+    <filename>/SMM_RIDE20_BELL_V01_VEL036_RR02_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -5823,7 +5823,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_RIDE20_BELL_V01_VEL039_RR02_1.wav</filename>
+    <filename>/SMM_RIDE20_BELL_V01_VEL039_RR02_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -5840,7 +5840,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_RIDE20_BELL_V01_VEL042_RR02_1.wav</filename>
+    <filename>/SMM_RIDE20_BELL_V01_VEL042_RR02_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -5857,7 +5857,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_RIDE20_BELL_V01_VEL045_RR02_1.wav</filename>
+    <filename>/SMM_RIDE20_BELL_V01_VEL045_RR02_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -5900,7 +5900,7 @@
    <midiOutChannel>-1</midiOutChannel>
    <midiOutNote>60</midiOutNote>
    <layer>
-    <filename>//SMM_RIDE20_MAIN_V01_VEL002_RR01_1.wav</filename>
+    <filename>/SMM_RIDE20_MAIN_V01_VEL002_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -5917,7 +5917,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_RIDE20_MAIN_V01_VEL005_RR01_1.wav</filename>
+    <filename>/SMM_RIDE20_MAIN_V01_VEL005_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -5934,7 +5934,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_RIDE20_MAIN_V01_VEL008_RR01_1.wav</filename>
+    <filename>/SMM_RIDE20_MAIN_V01_VEL008_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -5951,7 +5951,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_RIDE20_MAIN_V01_VEL011_RR01_1.wav</filename>
+    <filename>/SMM_RIDE20_MAIN_V01_VEL011_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -5968,7 +5968,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_RIDE20_MAIN_V01_VEL014_RR01_1.wav</filename>
+    <filename>/SMM_RIDE20_MAIN_V01_VEL014_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -5985,7 +5985,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_RIDE20_MAIN_V01_VEL016_RR01_1.wav</filename>
+    <filename>/SMM_RIDE20_MAIN_V01_VEL016_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -6002,7 +6002,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_RIDE20_MAIN_V01_VEL019_RR01_1.wav</filename>
+    <filename>/SMM_RIDE20_MAIN_V01_VEL019_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -6019,7 +6019,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_RIDE20_MAIN_V01_VEL022_RR01_1.wav</filename>
+    <filename>/SMM_RIDE20_MAIN_V01_VEL022_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -6036,7 +6036,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_RIDE20_MAIN_V01_VEL025_RR01_1.wav</filename>
+    <filename>/SMM_RIDE20_MAIN_V01_VEL025_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -6053,7 +6053,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_RIDE20_MAIN_V01_VEL028_RR01_1.wav</filename>
+    <filename>/SMM_RIDE20_MAIN_V01_VEL028_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -6070,7 +6070,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_RIDE20_MAIN_V01_VEL030_RR01_1.wav</filename>
+    <filename>/SMM_RIDE20_MAIN_V01_VEL030_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -6087,7 +6087,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_RIDE20_MAIN_V01_VEL033_RR01_1.wav</filename>
+    <filename>/SMM_RIDE20_MAIN_V01_VEL033_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -6104,7 +6104,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_RIDE20_MAIN_V01_VEL036_RR01_1.wav</filename>
+    <filename>/SMM_RIDE20_MAIN_V01_VEL036_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -6121,7 +6121,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_RIDE20_MAIN_V01_VEL039_RR01_1.wav</filename>
+    <filename>/SMM_RIDE20_MAIN_V01_VEL039_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -6138,7 +6138,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_RIDE20_MAIN_V01_VEL042_RR01_1.wav</filename>
+    <filename>/SMM_RIDE20_MAIN_V01_VEL042_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -6155,7 +6155,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_RIDE20_MAIN_V01_VEL045_RR01_1.wav</filename>
+    <filename>/SMM_RIDE20_MAIN_V01_VEL045_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -6198,7 +6198,7 @@
    <midiOutChannel>-1</midiOutChannel>
    <midiOutNote>60</midiOutNote>
    <layer>
-    <filename>//SMM_RIDE20_MAIN_V01_VEL002_RR02_1.wav</filename>
+    <filename>/SMM_RIDE20_MAIN_V01_VEL002_RR02_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -6215,7 +6215,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_RIDE20_MAIN_V01_VEL005_RR02_1.wav</filename>
+    <filename>/SMM_RIDE20_MAIN_V01_VEL005_RR02_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -6232,7 +6232,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_RIDE20_MAIN_V01_VEL008_RR02_1.wav</filename>
+    <filename>/SMM_RIDE20_MAIN_V01_VEL008_RR02_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -6249,7 +6249,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_RIDE20_MAIN_V01_VEL011_RR02_1.wav</filename>
+    <filename>/SMM_RIDE20_MAIN_V01_VEL011_RR02_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -6266,7 +6266,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_RIDE20_MAIN_V01_VEL014_RR02_1.wav</filename>
+    <filename>/SMM_RIDE20_MAIN_V01_VEL014_RR02_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -6283,7 +6283,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_RIDE20_MAIN_V01_VEL016_RR02_1.wav</filename>
+    <filename>/SMM_RIDE20_MAIN_V01_VEL016_RR02_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -6300,7 +6300,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_RIDE20_MAIN_V01_VEL019_RR02_1.wav</filename>
+    <filename>/SMM_RIDE20_MAIN_V01_VEL019_RR02_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -6317,7 +6317,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_RIDE20_MAIN_V01_VEL022_RR02_1.wav</filename>
+    <filename>/SMM_RIDE20_MAIN_V01_VEL022_RR02_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -6334,7 +6334,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_RIDE20_MAIN_V01_VEL025_RR02_1.wav</filename>
+    <filename>/SMM_RIDE20_MAIN_V01_VEL025_RR02_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -6351,7 +6351,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_RIDE20_MAIN_V01_VEL028_RR02_1.wav</filename>
+    <filename>/SMM_RIDE20_MAIN_V01_VEL028_RR02_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -6368,7 +6368,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_RIDE20_MAIN_V01_VEL030_RR02_1.wav</filename>
+    <filename>/SMM_RIDE20_MAIN_V01_VEL030_RR02_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -6385,7 +6385,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_RIDE20_MAIN_V01_VEL033_RR02_1.wav</filename>
+    <filename>/SMM_RIDE20_MAIN_V01_VEL033_RR02_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -6402,7 +6402,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_RIDE20_MAIN_V01_VEL036_RR02_1.wav</filename>
+    <filename>/SMM_RIDE20_MAIN_V01_VEL036_RR02_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -6419,7 +6419,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_RIDE20_MAIN_V01_VEL039_RR02_1.wav</filename>
+    <filename>/SMM_RIDE20_MAIN_V01_VEL039_RR02_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -6436,7 +6436,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_RIDE20_MAIN_V01_VEL042_RR02_1.wav</filename>
+    <filename>/SMM_RIDE20_MAIN_V01_VEL042_RR02_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -6453,7 +6453,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_RIDE20_MAIN_V01_VEL045_RR02_1.wav</filename>
+    <filename>/SMM_RIDE20_MAIN_V01_VEL045_RR02_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -6496,7 +6496,7 @@
    <midiOutChannel>-1</midiOutChannel>
    <midiOutNote>60</midiOutNote>
    <layer>
-    <filename>//SMM_CRASH15_V01_VEL002_RR01_1.wav</filename>
+    <filename>/SMM_CRASH15_V01_VEL002_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -6513,7 +6513,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_CRASH15_V01_VEL005_RR01_1.wav</filename>
+    <filename>/SMM_CRASH15_V01_VEL005_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -6530,7 +6530,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_CRASH15_V01_VEL008_RR01_1.wav</filename>
+    <filename>/SMM_CRASH15_V01_VEL008_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -6547,7 +6547,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_CRASH15_V01_VEL011_RR01_1.wav</filename>
+    <filename>/SMM_CRASH15_V01_VEL011_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -6564,7 +6564,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_CRASH15_V01_VEL014_RR01_1.wav</filename>
+    <filename>/SMM_CRASH15_V01_VEL014_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -6581,7 +6581,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_CRASH15_V01_VEL016_RR01_1.wav</filename>
+    <filename>/SMM_CRASH15_V01_VEL016_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -6598,7 +6598,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_CRASH15_V01_VEL019_RR01_1.wav</filename>
+    <filename>/SMM_CRASH15_V01_VEL019_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -6615,7 +6615,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_CRASH15_V01_VEL022_RR01_1.wav</filename>
+    <filename>/SMM_CRASH15_V01_VEL022_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -6632,7 +6632,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_CRASH15_V01_VEL025_RR01_1.wav</filename>
+    <filename>/SMM_CRASH15_V01_VEL025_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -6649,7 +6649,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_CRASH15_V01_VEL028_RR01_1.wav</filename>
+    <filename>/SMM_CRASH15_V01_VEL028_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -6666,7 +6666,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_CRASH15_V01_VEL030_RR01_1.wav</filename>
+    <filename>/SMM_CRASH15_V01_VEL030_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -6683,7 +6683,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_CRASH15_V01_VEL033_RR01_1.wav</filename>
+    <filename>/SMM_CRASH15_V01_VEL033_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -6700,7 +6700,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_CRASH15_V01_VEL036_RR01_1.wav</filename>
+    <filename>/SMM_CRASH15_V01_VEL036_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -6717,7 +6717,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_CRASH15_V01_VEL039_RR01_1.wav</filename>
+    <filename>/SMM_CRASH15_V01_VEL039_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -6734,7 +6734,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_CRASH15_V01_VEL042_RR01_1.wav</filename>
+    <filename>/SMM_CRASH15_V01_VEL042_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -6751,7 +6751,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_CRASH15_V01_VEL045_RR01_1.wav</filename>
+    <filename>/SMM_CRASH15_V01_VEL045_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -6794,7 +6794,7 @@
    <midiOutChannel>-1</midiOutChannel>
    <midiOutNote>60</midiOutNote>
    <layer>
-    <filename>//SMM_CRASH15_V01_VEL002_RR02_1.wav</filename>
+    <filename>/SMM_CRASH15_V01_VEL002_RR02_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -6811,7 +6811,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_CRASH15_V01_VEL005_RR02_1.wav</filename>
+    <filename>/SMM_CRASH15_V01_VEL005_RR02_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -6828,7 +6828,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_CRASH15_V01_VEL008_RR02_1.wav</filename>
+    <filename>/SMM_CRASH15_V01_VEL008_RR02_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -6845,7 +6845,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_CRASH15_V01_VEL011_RR02_1.wav</filename>
+    <filename>/SMM_CRASH15_V01_VEL011_RR02_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -6862,7 +6862,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_CRASH15_V01_VEL014_RR02_1.wav</filename>
+    <filename>/SMM_CRASH15_V01_VEL014_RR02_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -6879,7 +6879,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_CRASH15_V01_VEL016_RR02_1.wav</filename>
+    <filename>/SMM_CRASH15_V01_VEL016_RR02_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -6896,7 +6896,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_CRASH15_V01_VEL019_RR02_1.wav</filename>
+    <filename>/SMM_CRASH15_V01_VEL019_RR02_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -6913,7 +6913,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_CRASH15_V01_VEL022_RR02_1.wav</filename>
+    <filename>/SMM_CRASH15_V01_VEL022_RR02_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -6930,7 +6930,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_CRASH15_V01_VEL025_RR02_1.wav</filename>
+    <filename>/SMM_CRASH15_V01_VEL025_RR02_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -6947,7 +6947,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_CRASH15_V01_VEL028_RR02_1.wav</filename>
+    <filename>/SMM_CRASH15_V01_VEL028_RR02_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -6964,7 +6964,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_CRASH15_V01_VEL030_RR02_1.wav</filename>
+    <filename>/SMM_CRASH15_V01_VEL030_RR02_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -6981,7 +6981,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_CRASH15_V01_VEL033_RR02_1.wav</filename>
+    <filename>/SMM_CRASH15_V01_VEL033_RR02_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -6998,7 +6998,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_CRASH15_V01_VEL036_RR02_1.wav</filename>
+    <filename>/SMM_CRASH15_V01_VEL036_RR02_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -7015,7 +7015,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_CRASH15_V01_VEL039_RR02_1.wav</filename>
+    <filename>/SMM_CRASH15_V01_VEL039_RR02_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -7032,7 +7032,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_CRASH15_V01_VEL042_RR02_1.wav</filename>
+    <filename>/SMM_CRASH15_V01_VEL042_RR02_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -7049,7 +7049,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_CRASH15_V01_VEL045_RR02_1.wav</filename>
+    <filename>/SMM_CRASH15_V01_VEL045_RR02_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -7092,7 +7092,7 @@
    <midiOutChannel>-1</midiOutChannel>
    <midiOutNote>60</midiOutNote>
    <layer>
-    <filename>//SMM_CRASH17_V01_VEL002_RR01_1.wav</filename>
+    <filename>/SMM_CRASH17_V01_VEL002_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -7109,7 +7109,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_CRASH17_V01_VEL005_RR01_1.wav</filename>
+    <filename>/SMM_CRASH17_V01_VEL005_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -7126,7 +7126,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_CRASH17_V01_VEL008_RR01_1.wav</filename>
+    <filename>/SMM_CRASH17_V01_VEL008_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -7143,7 +7143,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_CRASH17_V01_VEL011_RR01_1.wav</filename>
+    <filename>/SMM_CRASH17_V01_VEL011_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -7160,7 +7160,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_CRASH17_V01_VEL014_RR01_1.wav</filename>
+    <filename>/SMM_CRASH17_V01_VEL014_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -7177,7 +7177,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_CRASH17_V01_VEL016_RR01_1.wav</filename>
+    <filename>/SMM_CRASH17_V01_VEL016_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -7194,7 +7194,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_CRASH17_V01_VEL019_RR01_1.wav</filename>
+    <filename>/SMM_CRASH17_V01_VEL019_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -7211,7 +7211,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_CRASH17_V01_VEL022_RR01_1.wav</filename>
+    <filename>/SMM_CRASH17_V01_VEL022_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -7228,7 +7228,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_CRASH17_V01_VEL025_RR01_1.wav</filename>
+    <filename>/SMM_CRASH17_V01_VEL025_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -7245,7 +7245,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_CRASH17_V01_VEL028_RR01_1.wav</filename>
+    <filename>/SMM_CRASH17_V01_VEL028_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -7262,7 +7262,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_CRASH17_V01_VEL030_RR01_1.wav</filename>
+    <filename>/SMM_CRASH17_V01_VEL030_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -7279,7 +7279,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_CRASH17_V01_VEL033_RR01_1.wav</filename>
+    <filename>/SMM_CRASH17_V01_VEL033_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -7296,7 +7296,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_CRASH17_V01_VEL036_RR01_1.wav</filename>
+    <filename>/SMM_CRASH17_V01_VEL036_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -7313,7 +7313,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_CRASH17_V01_VEL039_RR01_1.wav</filename>
+    <filename>/SMM_CRASH17_V01_VEL039_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -7330,7 +7330,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_CRASH17_V01_VEL042_RR01_1.wav</filename>
+    <filename>/SMM_CRASH17_V01_VEL042_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -7347,7 +7347,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_CRASH17_V01_VEL045_RR01_1.wav</filename>
+    <filename>/SMM_CRASH17_V01_VEL045_RR01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -7390,7 +7390,7 @@
    <midiOutChannel>-1</midiOutChannel>
    <midiOutNote>60</midiOutNote>
    <layer>
-    <filename>//SMM_CRASH17_V01_VEL002_RR02_1.wav</filename>
+    <filename>/SMM_CRASH17_V01_VEL002_RR02_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -7407,7 +7407,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_CRASH17_V01_VEL005_RR02_1.wav</filename>
+    <filename>/SMM_CRASH17_V01_VEL005_RR02_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -7424,7 +7424,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_CRASH17_V01_VEL008_RR02_1.wav</filename>
+    <filename>/SMM_CRASH17_V01_VEL008_RR02_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -7441,7 +7441,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_CRASH17_V01_VEL011_RR02_1.wav</filename>
+    <filename>/SMM_CRASH17_V01_VEL011_RR02_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -7458,7 +7458,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_CRASH17_V01_VEL014_RR02_1.wav</filename>
+    <filename>/SMM_CRASH17_V01_VEL014_RR02_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -7475,7 +7475,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_CRASH17_V01_VEL016_RR02_1.wav</filename>
+    <filename>/SMM_CRASH17_V01_VEL016_RR02_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -7492,7 +7492,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_CRASH17_V01_VEL019_RR02_1.wav</filename>
+    <filename>/SMM_CRASH17_V01_VEL019_RR02_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -7509,7 +7509,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_CRASH17_V01_VEL022_RR02_1.wav</filename>
+    <filename>/SMM_CRASH17_V01_VEL022_RR02_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -7526,7 +7526,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_CRASH17_V01_VEL025_RR02_1.wav</filename>
+    <filename>/SMM_CRASH17_V01_VEL025_RR02_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -7543,7 +7543,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_CRASH17_V01_VEL028_RR02_1.wav</filename>
+    <filename>/SMM_CRASH17_V01_VEL028_RR02_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -7560,7 +7560,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_CRASH17_V01_VEL030_RR02_1.wav</filename>
+    <filename>/SMM_CRASH17_V01_VEL030_RR02_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -7577,7 +7577,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_CRASH17_V01_VEL033_RR02_1.wav</filename>
+    <filename>/SMM_CRASH17_V01_VEL033_RR02_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -7594,7 +7594,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_CRASH17_V01_VEL036_RR02_1.wav</filename>
+    <filename>/SMM_CRASH17_V01_VEL036_RR02_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -7611,7 +7611,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_CRASH17_V01_VEL039_RR02_1.wav</filename>
+    <filename>/SMM_CRASH17_V01_VEL039_RR02_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -7628,7 +7628,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_CRASH17_V01_VEL042_RR02_1.wav</filename>
+    <filename>/SMM_CRASH17_V01_VEL042_RR02_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -7645,7 +7645,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//SMM_CRASH17_V01_VEL045_RR02_1.wav</filename>
+    <filename>/SMM_CRASH17_V01_VEL045_RR02_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -7688,7 +7688,7 @@
    <midiOutChannel>-1</midiOutChannel>
    <midiOutNote>60</midiOutNote>
    <layer>
-    <filename>//hihatClosed_OH_F_1.wav</filename>
+    <filename>/hihatClosed_OH_F_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -7705,7 +7705,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//hihatClosed_OH_F_2.wav</filename>
+    <filename>/hihatClosed_OH_F_2.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -7722,7 +7722,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//hihatClosed_OH_F_3.wav</filename>
+    <filename>/hihatClosed_OH_F_3.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -7739,7 +7739,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//hihatClosed_OH_F_5.wav</filename>
+    <filename>/hihatClosed_OH_F_5.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -7756,7 +7756,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//hihatClosed_OH_F_6.wav</filename>
+    <filename>/hihatClosed_OH_F_6.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -7773,7 +7773,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//hihatClosed_OH_F_7.wav</filename>
+    <filename>/hihatClosed_OH_F_7.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -7790,7 +7790,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//hihatClosed_OH_F_8.wav</filename>
+    <filename>/hihatClosed_OH_F_8.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -7807,7 +7807,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//hihatClosed_OH_F_10.wav</filename>
+    <filename>/hihatClosed_OH_F_10.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -7824,7 +7824,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//hihatClosed_OH_F_11.wav</filename>
+    <filename>/hihatClosed_OH_F_11.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -7841,7 +7841,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//hihatClosed_OH_F_12.wav</filename>
+    <filename>/hihatClosed_OH_F_12.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -7858,7 +7858,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//hihatClosed_OH_F_13.wav</filename>
+    <filename>/hihatClosed_OH_F_13.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -7875,7 +7875,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//hihatClosed_OH_F_15.wav</filename>
+    <filename>/hihatClosed_OH_F_15.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -7892,7 +7892,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//hihatClosed_OH_F_16.wav</filename>
+    <filename>/hihatClosed_OH_F_16.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -7909,7 +7909,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//hihatClosed_OH_F_17.wav</filename>
+    <filename>/hihatClosed_OH_F_17.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -7926,7 +7926,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//hihatClosed_OH_F_18.wav</filename>
+    <filename>/hihatClosed_OH_F_18.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -7943,7 +7943,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//hihatClosed_OH_F_20.wav</filename>
+    <filename>/hihatClosed_OH_F_20.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -7986,7 +7986,7 @@
    <midiOutChannel>-1</midiOutChannel>
    <midiOutNote>60</midiOutNote>
    <layer>
-    <filename>//hihatClosed_OH_P_1.wav</filename>
+    <filename>/hihatClosed_OH_P_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -8003,7 +8003,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//hihatClosed_OH_P_2.wav</filename>
+    <filename>/hihatClosed_OH_P_2.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -8020,7 +8020,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//hihatClosed_OH_P_3.wav</filename>
+    <filename>/hihatClosed_OH_P_3.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -8037,7 +8037,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//hihatClosed_OH_P_5.wav</filename>
+    <filename>/hihatClosed_OH_P_5.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -8054,7 +8054,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//hihatClosed_OH_P_6.wav</filename>
+    <filename>/hihatClosed_OH_P_6.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -8071,7 +8071,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//hihatClosed_OH_P_7.wav</filename>
+    <filename>/hihatClosed_OH_P_7.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -8088,7 +8088,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//hihatClosed_OH_P_8.wav</filename>
+    <filename>/hihatClosed_OH_P_8.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -8105,7 +8105,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//hihatClosed_OH_P_10.wav</filename>
+    <filename>/hihatClosed_OH_P_10.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -8122,7 +8122,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//hihatClosed_OH_P_11.wav</filename>
+    <filename>/hihatClosed_OH_P_11.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -8139,7 +8139,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//hihatClosed_OH_P_12.wav</filename>
+    <filename>/hihatClosed_OH_P_12.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -8156,7 +8156,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//hihatClosed_OH_P_13.wav</filename>
+    <filename>/hihatClosed_OH_P_13.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -8173,7 +8173,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//hihatClosed_OH_P_15.wav</filename>
+    <filename>/hihatClosed_OH_P_15.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -8190,7 +8190,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//hihatClosed_OH_P_16.wav</filename>
+    <filename>/hihatClosed_OH_P_16.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -8207,7 +8207,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//hihatClosed_OH_P_17.wav</filename>
+    <filename>/hihatClosed_OH_P_17.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -8224,7 +8224,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//hihatClosed_OH_P_18.wav</filename>
+    <filename>/hihatClosed_OH_P_18.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -8241,7 +8241,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//hihatClosed_OH_P_20.wav</filename>
+    <filename>/hihatClosed_OH_P_20.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -8284,7 +8284,7 @@
    <midiOutChannel>-1</midiOutChannel>
    <midiOutNote>60</midiOutNote>
    <layer>
-    <filename>//hihatFoot_OH_MP_1.wav</filename>
+    <filename>/hihatFoot_OH_MP_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -8301,7 +8301,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//hihatFoot_OH_MP_2.wav</filename>
+    <filename>/hihatFoot_OH_MP_2.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -8318,7 +8318,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//hihatFoot_OH_MP_3.wav</filename>
+    <filename>/hihatFoot_OH_MP_3.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -8335,7 +8335,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//hihatFoot_OH_MP_4.wav</filename>
+    <filename>/hihatFoot_OH_MP_4.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -8352,7 +8352,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//hihatFoot_OH_MP_5.wav</filename>
+    <filename>/hihatFoot_OH_MP_5.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -8369,7 +8369,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//hihatFoot_OH_MP_6.wav</filename>
+    <filename>/hihatFoot_OH_MP_6.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -8386,7 +8386,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//hihatFoot_OH_MP_7.wav</filename>
+    <filename>/hihatFoot_OH_MP_7.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -8403,7 +8403,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//hihatFoot_OH_MP_8.wav</filename>
+    <filename>/hihatFoot_OH_MP_8.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -8420,7 +8420,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//hihatFoot_OH_MP_9.wav</filename>
+    <filename>/hihatFoot_OH_MP_9.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -8437,7 +8437,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//hihatFoot_OH_MP_10.wav</filename>
+    <filename>/hihatFoot_OH_MP_10.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -8454,7 +8454,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//hihatFoot_OH_MP_11.wav</filename>
+    <filename>/hihatFoot_OH_MP_11.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -8471,7 +8471,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//hihatFoot_OH_MP_12.wav</filename>
+    <filename>/hihatFoot_OH_MP_12.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -8514,7 +8514,7 @@
    <midiOutChannel>-1</midiOutChannel>
    <midiOutNote>60</midiOutNote>
    <layer>
-    <filename>//hihatFootStomp_OH_MP_1.wav</filename>
+    <filename>/hihatFootStomp_OH_MP_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -8531,7 +8531,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//hihatFootStomp_OH_MP_2.wav</filename>
+    <filename>/hihatFootStomp_OH_MP_2.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -8548,7 +8548,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//hihatFootStomp_OH_MP_3.wav</filename>
+    <filename>/hihatFootStomp_OH_MP_3.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -8565,7 +8565,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//hihatFootStomp_OH_MP_4.wav</filename>
+    <filename>/hihatFootStomp_OH_MP_4.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -8608,7 +8608,7 @@
    <midiOutChannel>-1</midiOutChannel>
    <midiOutNote>60</midiOutNote>
    <layer>
-    <filename>//hihatOpen_OH_FF_1.wav</filename>
+    <filename>/hihatOpen_OH_FF_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -8625,7 +8625,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//hihatOpen_OH_FF_2.wav</filename>
+    <filename>/hihatOpen_OH_FF_2.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -8642,7 +8642,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//hihatOpen_OH_FF_3.wav</filename>
+    <filename>/hihatOpen_OH_FF_3.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -8659,7 +8659,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//hihatOpen_OH_FF_4.wav</filename>
+    <filename>/hihatOpen_OH_FF_4.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -8676,7 +8676,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//hihatOpen_OH_FF_5.wav</filename>
+    <filename>/hihatOpen_OH_FF_5.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -8693,7 +8693,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//hihatOpen_OH_FF_6.wav</filename>
+    <filename>/hihatOpen_OH_FF_6.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -8736,7 +8736,7 @@
    <midiOutChannel>-1</midiOutChannel>
    <midiOutNote>60</midiOutNote>
    <layer>
-    <filename>//hihatOpen_OH_F_1.wav</filename>
+    <filename>/hihatOpen_OH_F_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -8753,7 +8753,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//hihatOpen_OH_F_2.wav</filename>
+    <filename>/hihatOpen_OH_F_2.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -8770,7 +8770,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//hihatOpen_OH_F_3.wav</filename>
+    <filename>/hihatOpen_OH_F_3.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -8787,7 +8787,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//hihatOpen_OH_F_4.wav</filename>
+    <filename>/hihatOpen_OH_F_4.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -8804,7 +8804,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//hihatOpen_OH_F_5.wav</filename>
+    <filename>/hihatOpen_OH_F_5.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -8847,7 +8847,7 @@
    <midiOutChannel>-1</midiOutChannel>
    <midiOutNote>60</midiOutNote>
    <layer>
-    <filename>//hihatOpen_OH_P_1.wav</filename>
+    <filename>/hihatOpen_OH_P_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -8864,7 +8864,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//hihatOpen_OH_P_2.wav</filename>
+    <filename>/hihatOpen_OH_P_2.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -8881,7 +8881,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//hihatOpen_OH_P_3.wav</filename>
+    <filename>/hihatOpen_OH_P_3.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -8898,7 +8898,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//hihatOpen_OH_P_4.wav</filename>
+    <filename>/hihatOpen_OH_P_4.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -8915,7 +8915,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//hihatOpen_OH_P_5.wav</filename>
+    <filename>/hihatOpen_OH_P_5.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -8932,7 +8932,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//hihatOpen_OH_P_6.wav</filename>
+    <filename>/hihatOpen_OH_P_6.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -8949,7 +8949,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//hihatOpen_OH_P_7.wav</filename>
+    <filename>/hihatOpen_OH_P_7.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -8992,7 +8992,7 @@
    <midiOutChannel>-1</midiOutChannel>
    <midiOutNote>60</midiOutNote>
    <layer>
-    <filename>//hihatSemiOpen1_OH_F_1.wav</filename>
+    <filename>/hihatSemiOpen1_OH_F_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -9009,7 +9009,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//hihatSemiOpen1_OH_F_2.wav</filename>
+    <filename>/hihatSemiOpen1_OH_F_2.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -9026,7 +9026,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//hihatSemiOpen1_OH_F_3.wav</filename>
+    <filename>/hihatSemiOpen1_OH_F_3.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -9043,7 +9043,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//hihatSemiOpen1_OH_F_4.wav</filename>
+    <filename>/hihatSemiOpen1_OH_F_4.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -9060,7 +9060,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//hihatSemiOpen1_OH_F_5.wav</filename>
+    <filename>/hihatSemiOpen1_OH_F_5.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -9103,7 +9103,7 @@
    <midiOutChannel>-1</midiOutChannel>
    <midiOutNote>60</midiOutNote>
    <layer>
-    <filename>//hihatSemiOpen1_OH_P_1.wav</filename>
+    <filename>/hihatSemiOpen1_OH_P_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -9120,7 +9120,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//hihatSemiOpen1_OH_P_2.wav</filename>
+    <filename>/hihatSemiOpen1_OH_P_2.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -9137,7 +9137,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//hihatSemiOpen1_OH_P_3.wav</filename>
+    <filename>/hihatSemiOpen1_OH_P_3.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -9154,7 +9154,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//hihatSemiOpen1_OH_P_4.wav</filename>
+    <filename>/hihatSemiOpen1_OH_P_4.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -9171,7 +9171,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//hihatSemiOpen1_OH_P_5.wav</filename>
+    <filename>/hihatSemiOpen1_OH_P_5.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -9214,7 +9214,7 @@
    <midiOutChannel>-1</midiOutChannel>
    <midiOutNote>60</midiOutNote>
    <layer>
-    <filename>//hihatSemiOpen2_OH_F_1.wav</filename>
+    <filename>/hihatSemiOpen2_OH_F_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -9231,7 +9231,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//hihatSemiOpen2_OH_F_2.wav</filename>
+    <filename>/hihatSemiOpen2_OH_F_2.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -9248,7 +9248,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//hihatSemiOpen2_OH_F_3.wav</filename>
+    <filename>/hihatSemiOpen2_OH_F_3.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -9265,7 +9265,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//hihatSemiOpen2_OH_F_4.wav</filename>
+    <filename>/hihatSemiOpen2_OH_F_4.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -9282,7 +9282,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//hihatSemiOpen2_OH_F_5.wav</filename>
+    <filename>/hihatSemiOpen2_OH_F_5.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -9325,7 +9325,7 @@
    <midiOutChannel>-1</midiOutChannel>
    <midiOutNote>60</midiOutNote>
    <layer>
-    <filename>//hihatSemiOpen2_OH_P_1.wav</filename>
+    <filename>/hihatSemiOpen2_OH_P_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -9342,7 +9342,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//hihatSemiOpen2_OH_P_2.wav</filename>
+    <filename>/hihatSemiOpen2_OH_P_2.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -9359,7 +9359,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//hihatSemiOpen2_OH_P_3.wav</filename>
+    <filename>/hihatSemiOpen2_OH_P_3.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -9376,7 +9376,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//hihatSemiOpen2_OH_P_4.wav</filename>
+    <filename>/hihatSemiOpen2_OH_P_4.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -9393,7 +9393,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//hihatSemiOpen2_OH_P_5.wav</filename>
+    <filename>/hihatSemiOpen2_OH_P_5.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -9436,7 +9436,7 @@
    <midiOutChannel>-1</midiOutChannel>
    <midiOutNote>60</midiOutNote>
    <layer>
-    <filename>//hihatSemiOpen3_OH_P_1.wav</filename>
+    <filename>/hihatSemiOpen3_OH_P_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -9453,7 +9453,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//hihatSemiOpen3_OH_P_2.wav</filename>
+    <filename>/hihatSemiOpen3_OH_P_2.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -9470,7 +9470,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//hihatSemiOpen3_OH_P_3.wav</filename>
+    <filename>/hihatSemiOpen3_OH_P_3.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -9487,7 +9487,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//hihatSemiOpen3_OH_P_4.wav</filename>
+    <filename>/hihatSemiOpen3_OH_P_4.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -9504,7 +9504,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//hihatSemiOpen3_OH_P_5.wav</filename>
+    <filename>/hihatSemiOpen3_OH_P_5.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -9547,7 +9547,7 @@
    <midiOutChannel>-1</midiOutChannel>
    <midiOutNote>60</midiOutNote>
    <layer>
-    <filename>//hihatSemiOpen3_OH_F_1.wav</filename>
+    <filename>/hihatSemiOpen3_OH_F_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -9564,7 +9564,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//hihatSemiOpen3_OH_F_2.wav</filename>
+    <filename>/hihatSemiOpen3_OH_F_2.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -9581,7 +9581,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//hihatSemiOpen3_OH_F_3.wav</filename>
+    <filename>/hihatSemiOpen3_OH_F_3.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -9598,7 +9598,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//hihatSemiOpen3_OH_F_4.wav</filename>
+    <filename>/hihatSemiOpen3_OH_F_4.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -9615,7 +9615,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//hihatSemiOpen3_OH_F_5.wav</filename>
+    <filename>/hihatSemiOpen3_OH_F_5.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -9658,7 +9658,7 @@
    <midiOutChannel>-1</midiOutChannel>
    <midiOutNote>60</midiOutNote>
    <layer>
-    <filename>//hihatSemiOpen4_OH_P_1.wav</filename>
+    <filename>/hihatSemiOpen4_OH_P_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -9675,7 +9675,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//hihatSemiOpen4_OH_P_2.wav</filename>
+    <filename>/hihatSemiOpen4_OH_P_2.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -9692,7 +9692,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//hihatSemiOpen4_OH_P_3.wav</filename>
+    <filename>/hihatSemiOpen4_OH_P_3.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -9709,7 +9709,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//hihatSemiOpen4_OH_P_4.wav</filename>
+    <filename>/hihatSemiOpen4_OH_P_4.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -9726,7 +9726,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//hihatSemiOpen4_OH_P_5.wav</filename>
+    <filename>/hihatSemiOpen4_OH_P_5.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -9769,7 +9769,7 @@
    <midiOutChannel>-1</midiOutChannel>
    <midiOutNote>60</midiOutNote>
    <layer>
-    <filename>//hihatSemiOpen4_OH_F_1.wav</filename>
+    <filename>/hihatSemiOpen4_OH_F_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -9786,7 +9786,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//hihatSemiOpen4_OH_F_2.wav</filename>
+    <filename>/hihatSemiOpen4_OH_F_2.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -9803,7 +9803,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//hihatSemiOpen4_OH_F_3.wav</filename>
+    <filename>/hihatSemiOpen4_OH_F_3.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -9820,7 +9820,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//hihatSemiOpen4_OH_F_4.wav</filename>
+    <filename>/hihatSemiOpen4_OH_F_4.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -9837,7 +9837,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//hihatSemiOpen4_OH_F_5.wav</filename>
+    <filename>/hihatSemiOpen4_OH_F_5.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -9880,7 +9880,7 @@
    <midiOutChannel>-1</midiOutChannel>
    <midiOutNote>60</midiOutNote>
    <layer>
-    <filename>//hihatSemiOpen5_OH_F_1.wav</filename>
+    <filename>/hihatSemiOpen5_OH_F_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -9897,7 +9897,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//hihatSemiOpen5_OH_F_2.wav</filename>
+    <filename>/hihatSemiOpen5_OH_F_2.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -9914,7 +9914,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//hihatSemiOpen5_OH_F_3.wav</filename>
+    <filename>/hihatSemiOpen5_OH_F_3.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -9931,7 +9931,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//hihatSemiOpen5_OH_F_4.wav</filename>
+    <filename>/hihatSemiOpen5_OH_F_4.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -9948,7 +9948,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//hihatSemiOpen5_OH_F_5.wav</filename>
+    <filename>/hihatSemiOpen5_OH_F_5.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -9991,7 +9991,7 @@
    <midiOutChannel>-1</midiOutChannel>
    <midiOutNote>60</midiOutNote>
    <layer>
-    <filename>//hihatSemiOpen5_OH_P_1.wav</filename>
+    <filename>/hihatSemiOpen5_OH_P_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -10008,7 +10008,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//hihatSemiOpen5_OH_P_2.wav</filename>
+    <filename>/hihatSemiOpen5_OH_P_2.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -10025,7 +10025,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//hihatSemiOpen5_OH_P_3.wav</filename>
+    <filename>/hihatSemiOpen5_OH_P_3.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -10042,7 +10042,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//hihatSemiOpen5_OH_P_4.wav</filename>
+    <filename>/hihatSemiOpen5_OH_P_4.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -10059,7 +10059,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//hihatSemiOpen5_OH_P_5.wav</filename>
+    <filename>/hihatSemiOpen5_OH_P_5.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -10102,7 +10102,7 @@
    <midiOutChannel>-1</midiOutChannel>
    <midiOutNote>60</midiOutNote>
    <layer>
-    <filename>//hihatSemiOpen6_OH_F_1.wav</filename>
+    <filename>/hihatSemiOpen6_OH_F_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -10119,7 +10119,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//hihatSemiOpen6_OH_F_2.wav</filename>
+    <filename>/hihatSemiOpen6_OH_F_2.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -10136,7 +10136,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//hihatSemiOpen6_OH_F_3.wav</filename>
+    <filename>/hihatSemiOpen6_OH_F_3.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -10153,7 +10153,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//hihatSemiOpen6_OH_F_4.wav</filename>
+    <filename>/hihatSemiOpen6_OH_F_4.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -10170,7 +10170,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//hihatSemiOpen6_OH_F_5.wav</filename>
+    <filename>/hihatSemiOpen6_OH_F_5.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -10213,7 +10213,7 @@
    <midiOutChannel>-1</midiOutChannel>
    <midiOutNote>60</midiOutNote>
    <layer>
-    <filename>//hihatSemiOpen6_OH_P_1.wav</filename>
+    <filename>/hihatSemiOpen6_OH_P_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -10230,7 +10230,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//hihatSemiOpen6_OH_P_2.wav</filename>
+    <filename>/hihatSemiOpen6_OH_P_2.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -10247,7 +10247,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//hihatSemiOpen6_OH_P_3.wav</filename>
+    <filename>/hihatSemiOpen6_OH_P_3.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -10264,7 +10264,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//hihatSemiOpen6_OH_P_4.wav</filename>
+    <filename>/hihatSemiOpen6_OH_P_4.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -10281,7 +10281,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//hihatSemiOpen6_OH_P_5.wav</filename>
+    <filename>/hihatSemiOpen6_OH_P_5.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -10324,7 +10324,7 @@
    <midiOutChannel>-1</midiOutChannel>
    <midiOutNote>60</midiOutNote>
    <layer>
-    <filename>//hihatSemiOpen7_OH_F_1.wav</filename>
+    <filename>/hihatSemiOpen7_OH_F_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -10341,7 +10341,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//hihatSemiOpen7_OH_F_2.wav</filename>
+    <filename>/hihatSemiOpen7_OH_F_2.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -10358,7 +10358,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//hihatSemiOpen7_OH_F_3.wav</filename>
+    <filename>/hihatSemiOpen7_OH_F_3.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -10375,7 +10375,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//hihatSemiOpen7_OH_F_4.wav</filename>
+    <filename>/hihatSemiOpen7_OH_F_4.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -10392,7 +10392,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//hihatSemiOpen7_OH_F_5.wav</filename>
+    <filename>/hihatSemiOpen7_OH_F_5.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -10435,7 +10435,7 @@
    <midiOutChannel>-1</midiOutChannel>
    <midiOutNote>60</midiOutNote>
    <layer>
-    <filename>//hihatSemiOpen7_OH_P_1.wav</filename>
+    <filename>/hihatSemiOpen7_OH_P_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -10452,7 +10452,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//hihatSemiOpen7_OH_P_2.wav</filename>
+    <filename>/hihatSemiOpen7_OH_P_2.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -10469,7 +10469,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//hihatSemiOpen7_OH_P_3.wav</filename>
+    <filename>/hihatSemiOpen7_OH_P_3.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -10486,7 +10486,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//hihatSemiOpen7_OH_P_4.wav</filename>
+    <filename>/hihatSemiOpen7_OH_P_4.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -10503,7 +10503,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//hihatSemiOpen7_OH_P_5.wav</filename>
+    <filename>/hihatSemiOpen7_OH_P_5.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -10546,7 +10546,7 @@
    <midiOutChannel>-1</midiOutChannel>
    <midiOutNote>60</midiOutNote>
    <layer>
-    <filename>//splash1_OH_F_01_1.wav</filename>
+    <filename>/splash1_OH_F_01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -10563,7 +10563,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//splash1_OH_F_02_1.wav</filename>
+    <filename>/splash1_OH_F_02_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -10580,7 +10580,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//splash1_OH_F_03_1.wav</filename>
+    <filename>/splash1_OH_F_03_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -10597,7 +10597,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//splash1_OH_F_04_1.wav</filename>
+    <filename>/splash1_OH_F_04_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -10614,7 +10614,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//splash1_OH_F_05_1.wav</filename>
+    <filename>/splash1_OH_F_05_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -10657,7 +10657,7 @@
    <midiOutChannel>-1</midiOutChannel>
    <midiOutNote>60</midiOutNote>
    <layer>
-    <filename>//splash1_OH_P_01_1.wav</filename>
+    <filename>/splash1_OH_P_01_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -10674,7 +10674,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//splash1_OH_P_02_1.wav</filename>
+    <filename>/splash1_OH_P_02_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -10691,7 +10691,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//splash1_OH_P_03_1.wav</filename>
+    <filename>/splash1_OH_P_03_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -10708,7 +10708,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//splash1_OH_P_04_1.wav</filename>
+    <filename>/splash1_OH_P_04_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -10725,7 +10725,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//splash1_OH_P_05_1.wav</filename>
+    <filename>/splash1_OH_P_05_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -10746,7 +10746,7 @@
    <id>46</id>
    <name>cowbell_FF</name>
    <drumkit>group-drums-nsk2</drumkit>
-   <volume>0.69</volume>
+   <volume>0.4</volume>
    <isMuted>false</isMuted>
    <pan_L>1</pan_L>
    <pan_R>1</pan_R>
@@ -10768,7 +10768,7 @@
    <midiOutChannel>-1</midiOutChannel>
    <midiOutNote>60</midiOutNote>
    <layer>
-    <filename>//cowbell_FF_1.wav</filename>
+    <filename>/cowbell_FF_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -10785,7 +10785,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//cowbell_FF_2.wav</filename>
+    <filename>/cowbell_FF_2.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -10802,7 +10802,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//cowbell_FF_3.wav</filename>
+    <filename>/cowbell_FF_3.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -10819,7 +10819,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//cowbell_FF_4.wav</filename>
+    <filename>/cowbell_FF_4.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -10836,7 +10836,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//cowbell_FF_5.wav</filename>
+    <filename>/cowbell_FF_5.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -10853,7 +10853,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//cowbell_FF_6.wav</filename>
+    <filename>/cowbell_FF_6.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -10870,7 +10870,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//cowbell_FF_7.wav</filename>
+    <filename>/cowbell_FF_7.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -10887,7 +10887,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//cowbell_FF_8.wav</filename>
+    <filename>/cowbell_FF_8.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -10904,7 +10904,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//cowbell_FF_9.wav</filename>
+    <filename>/cowbell_FF_9.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -10925,7 +10925,7 @@
    <id>48</id>
    <name>cowbell_P</name>
    <drumkit>group-drums-nsk2</drumkit>
-   <volume>0.69</volume>
+   <volume>0.4</volume>
    <isMuted>false</isMuted>
    <pan_L>1</pan_L>
    <pan_R>1</pan_R>
@@ -10947,7 +10947,7 @@
    <midiOutChannel>-1</midiOutChannel>
    <midiOutNote>60</midiOutNote>
    <layer>
-    <filename>//cowbell_P_1.wav</filename>
+    <filename>/cowbell_P_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -10964,7 +10964,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//cowbell_P_2.wav</filename>
+    <filename>/cowbell_P_2.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -10981,7 +10981,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//cowbell_P_3.wav</filename>
+    <filename>/cowbell_P_3.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -10998,7 +10998,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//cowbell_P_4.wav</filename>
+    <filename>/cowbell_P_4.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -11015,7 +11015,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//cowbell_P_5.wav</filename>
+    <filename>/cowbell_P_5.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -11032,7 +11032,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//cowbell_P_6.wav</filename>
+    <filename>/cowbell_P_6.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -11049,7 +11049,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//cowbell_P_7.wav</filename>
+    <filename>/cowbell_P_7.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -11066,7 +11066,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//cowbell_P_8.wav</filename>
+    <filename>/cowbell_P_8.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -11083,7 +11083,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//cowbell_P_9.wav</filename>
+    <filename>/cowbell_P_9.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -11100,7 +11100,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//cowbell_P_10.wav</filename>
+    <filename>/cowbell_P_10.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -11117,7 +11117,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//cowbell_P_11.wav</filename>
+    <filename>/cowbell_P_11.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -11138,7 +11138,7 @@
    <id>47</id>
    <name>cowbell_MP</name>
    <drumkit>group-drums-nsk2</drumkit>
-   <volume>0.69</volume>
+   <volume>0.4</volume>
    <isMuted>false</isMuted>
    <pan_L>1</pan_L>
    <pan_R>1</pan_R>
@@ -11160,7 +11160,7 @@
    <midiOutChannel>-1</midiOutChannel>
    <midiOutNote>60</midiOutNote>
    <layer>
-    <filename>//cowbell_MP_1.wav</filename>
+    <filename>/cowbell_MP_1.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -11177,7 +11177,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//cowbell_MP_2.wav</filename>
+    <filename>/cowbell_MP_2.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -11194,7 +11194,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//cowbell_MP_3.wav</filename>
+    <filename>/cowbell_MP_3.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -11211,7 +11211,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//cowbell_MP_4.wav</filename>
+    <filename>/cowbell_MP_4.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -11228,7 +11228,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//cowbell_MP_5.wav</filename>
+    <filename>/cowbell_MP_5.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -11245,7 +11245,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//cowbell_MP_6.wav</filename>
+    <filename>/cowbell_MP_6.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -11262,7 +11262,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//cowbell_MP_7.wav</filename>
+    <filename>/cowbell_MP_7.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -11279,7 +11279,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//cowbell_MP_8.wav</filename>
+    <filename>/cowbell_MP_8.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -11296,7 +11296,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>//cowbell_MP_9.wav</filename>
+    <filename>/cowbell_MP_9.wav</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -13193,7 +13193,7 @@
     <note>
      <position>48</position>
      <leadlag>0</leadlag>
-     <velocity>0.57</velocity>
+     <velocity>0.54</velocity>
      <pan_L>0.5</pan_L>
      <pan_R>0.5</pan_R>
      <pitch>0</pitch>
@@ -13217,7 +13217,7 @@
     <note>
      <position>96</position>
      <leadlag>0</leadlag>
-     <velocity>0.69</velocity>
+     <velocity>0.7</velocity>
      <pan_L>0.5</pan_L>
      <pan_R>0.5</pan_R>
      <pitch>0</pitch>
@@ -13265,7 +13265,7 @@
     <note>
      <position>144</position>
      <leadlag>0</leadlag>
-     <velocity>0.6</velocity>
+     <velocity>0.56</velocity>
      <pan_L>0.5</pan_L>
      <pan_R>0.5</pan_R>
      <pitch>0</pitch>
@@ -13289,7 +13289,7 @@
     <note>
      <position>180</position>
      <leadlag>0</leadlag>
-     <velocity>0.56</velocity>
+     <velocity>0.65</velocity>
      <pan_L>0.5</pan_L>
      <pan_R>0.5</pan_R>
      <pitch>0</pitch>
@@ -13344,7 +13344,7 @@
     <note>
      <position>48</position>
      <leadlag>0</leadlag>
-     <velocity>0.8</velocity>
+     <velocity>0.61</velocity>
      <pan_L>0.5</pan_L>
      <pan_R>0.5</pan_R>
      <pitch>0</pitch>
@@ -13380,7 +13380,7 @@
     <note>
      <position>96</position>
      <leadlag>0</leadlag>
-     <velocity>0.8</velocity>
+     <velocity>0.71</velocity>
      <pan_L>0.5</pan_L>
      <pan_R>0.5</pan_R>
      <pitch>0</pitch>
@@ -13428,7 +13428,7 @@
     <note>
      <position>144</position>
      <leadlag>0</leadlag>
-     <velocity>0.8</velocity>
+     <velocity>0.61</velocity>
      <pan_L>0.5</pan_L>
      <pan_R>0.5</pan_R>
      <pitch>0</pitch>
@@ -13452,7 +13452,7 @@
     <note>
      <position>168</position>
      <leadlag>0</leadlag>
-     <velocity>0.68</velocity>
+     <velocity>0.52</velocity>
      <pan_L>0.5</pan_L>
      <pan_R>0.5</pan_R>
      <pitch>0</pitch>
@@ -13531,7 +13531,7 @@
     <note>
      <position>48</position>
      <leadlag>0</leadlag>
-     <velocity>0.72</velocity>
+     <velocity>0.65</velocity>
      <pan_L>0.5</pan_L>
      <pan_R>0.5</pan_R>
      <pitch>0</pitch>
@@ -13567,7 +13567,7 @@
     <note>
      <position>96</position>
      <leadlag>0</leadlag>
-     <velocity>0.8</velocity>
+     <velocity>0.73</velocity>
      <pan_L>0.5</pan_L>
      <pan_R>0.5</pan_R>
      <pitch>0</pitch>
@@ -14672,6 +14672,61 @@
      <key>C0</key>
      <length>-1</length>
      <instrument>48</instrument>
+     <note_off>false</note_off>
+    </note>
+   </noteList>
+  </pattern>
+  <pattern>
+   <name>Паттерн 20</name>
+   <category>not_categorized</category>
+   <size>192</size>
+   <noteList>
+    <note>
+     <position>0</position>
+     <leadlag>0</leadlag>
+     <velocity>0.8</velocity>
+     <pan_L>0.5</pan_L>
+     <pan_R>0.5</pan_R>
+     <pitch>0</pitch>
+     <key>C0</key>
+     <length>-1</length>
+     <instrument>2</instrument>
+     <note_off>false</note_off>
+    </note>
+    <note>
+     <position>48</position>
+     <leadlag>0</leadlag>
+     <velocity>0.8</velocity>
+     <pan_L>0.5</pan_L>
+     <pan_R>0.5</pan_R>
+     <pitch>0</pitch>
+     <key>C0</key>
+     <length>-1</length>
+     <instrument>46</instrument>
+     <note_off>false</note_off>
+    </note>
+    <note>
+     <position>96</position>
+     <leadlag>0</leadlag>
+     <velocity>0.8</velocity>
+     <pan_L>0.5</pan_L>
+     <pan_R>0.5</pan_R>
+     <pitch>0</pitch>
+     <key>C0</key>
+     <length>-1</length>
+     <instrument>2</instrument>
+     <note_off>false</note_off>
+    </note>
+    <note>
+     <position>144</position>
+     <leadlag>0</leadlag>
+     <velocity>0.8</velocity>
+     <pan_L>0.5</pan_L>
+     <pan_R>0.5</pan_R>
+     <pitch>0</pitch>
+     <key>C0</key>
+     <length>-1</length>
+     <instrument>46</instrument>
      <note_off>false</note_off>
     </note>
    </noteList>
