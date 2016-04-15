@@ -12534,14 +12534,14 @@
     </note>
     <note>
      <position>0</position>
-     <leadlag>0</leadlag>
+     <leadlag>-0.52</leadlag>
      <velocity>0.8</velocity>
      <pan_L>0.5</pan_L>
      <pan_R>0.5</pan_R>
      <pitch>0</pitch>
      <key>C0</key>
      <length>-1</length>
-     <instrument>51</instrument>
+     <instrument>24</instrument>
      <note_off>false</note_off>
     </note>
     <note>
@@ -12904,6 +12904,18 @@
      <key>C0</key>
      <length>-1</length>
      <instrument>51</instrument>
+     <note_off>false</note_off>
+    </note>
+    <note>
+     <position>0</position>
+     <leadlag>0</leadlag>
+     <velocity>0.8</velocity>
+     <pan_L>0.5</pan_L>
+     <pan_R>0.5</pan_R>
+     <pitch>0</pitch>
+     <key>C0</key>
+     <length>-1</length>
+     <instrument>27</instrument>
      <note_off>false</note_off>
     </note>
     <note>
