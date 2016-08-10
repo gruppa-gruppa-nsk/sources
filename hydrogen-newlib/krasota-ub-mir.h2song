@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
- <version>0.9.6-beta3</version>
+ <version>0.9.6.1</version>
  <bpm>150</bpm>
  <volume>0.5</volume>
  <metronomeVolume>0.5</metronomeVolume>
@@ -13819,6 +13819,9 @@
    <patternID>chorus#crash</patternID>
   </group>
   <group>
+   <patternID>chorus</patternID>
+  </group>
+  <group>
    <patternID>postchorus</patternID>
   </group>
   <group>
@@ -13848,7 +13851,6 @@
   <group>
    <patternID>end-end</patternID>
   </group>
-  <group/>
   <group/>
   <group/>
   <group/>
