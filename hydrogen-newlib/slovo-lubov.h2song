@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
- <version>0.9.6-beta3</version>
- <bpm>120</bpm>
+ <version>0.9.6.1</version>
+ <bpm>240</bpm>
  <volume>0.5</volume>
  <metronomeVolume>0.5</metronomeVolume>
  <name>Untitled Song</name>
